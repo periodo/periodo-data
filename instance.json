@@ -1,0 +1,27 @@
+{ "@context": 
+  { "label": "http://www.w3.org/2000/01/rdf-schema#label"
+  , "author": "http://schema.org/author"
+  , "family": "http://schema.org/familyName"
+  , "given": "http://schema.org/givenName"
+  , "title": "http://schema.org/name"
+  , "julian day": "http://www.wikidata.org/wiki/Q14267"
+  , "webpage": "http://schema.org/WebPage"
+  }
+
+, "assertion": "http://dx.doi.org/XXXX/YYYY"
+, "source": 
+  { "author": 
+    [ 
+      { "family": "Rabinowitz"
+      , "given": "Adam"
+      }
+    ]
+  , "title": "GeoDia"
+  , "accessed": "2011"
+  , "@type": "webpage"
+  }
+, "location": 
+  { "@id": "http://www.wikidata.org/wiki/Q5818"
+  , "label": "Córdoba"
+  }
+}

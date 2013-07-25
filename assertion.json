@@ -1,0 +1,41 @@
+{ "@context": 
+  { "label": "http://www.w3.org/2000/01/rdf-schema#label"
+  , "value": { "@type": "http://www.w3.org/2001/XMLSchema#float" }
+  , "author": "http://schema.org/author"
+  , "family": "http://schema.org/familyName"
+  , "given": "http://schema.org/givenName"
+  , "title": "http://schema.org/name"
+  , "issued": "http://schema.org/datePublished"
+  , "julian day": "http://www.wikidata.org/wiki/Q14267"
+  , "book": "http://schema.org/Book"
+  }
+
+, "@id": "http://dx.doi.org/XXXX/YYYY"
+, "label": "Late Bronze Age"
+, "start": 
+  { "label": "1100 B.C."
+  , "unit": "julian day"
+  , "value": "1.3E6"
+  }
+, "end": 
+  { "label": "600 B.C."
+  , "unit": "julian day"
+  , "value": "1.5E6"
+  }
+, "source": 
+  { "author": 
+    [ 
+      { "@id": "http://viaf.org/viaf/93157757"
+      , "family": "Almagro-Gorbea"
+      , "given": "Martin"
+      }
+    ]
+  , "title": "Los Celtas en la Península Ibérica"
+  , "issued": "1993"
+  , "@type": "book"
+  }
+, "location": 
+  { "@id": "http://www.wikidata.org/wiki/Q29"
+  , "label": "Spain"
+  }
+}
