@@ -1,6 +1,7 @@
 #! /usr/bin/env python
 
 import datetime
+import hashlib
 import json
 import requests
 import xml.etree.ElementTree as ET
@@ -57,7 +58,7 @@ def label(g, s):
 def generic_metadata(e):
     o = entry2dict(e)
     metadata = { 'title': e.find('atom:title', NSS).text,
-                 'yearPublished': e.find('zapi:year', NSS).text,
+                 'yearPublished': int(e.find('zapi:year', NSS).text),
                  'creators': [ { 'name': name } for name in o['creator'] ] }
     if 'url' in o: metadata['url'] = o['url']
     return metadata
@@ -105,9 +106,12 @@ def book_metadata(e):
     return o
 
 def booksection_metadata(e):
-    o = allbut('url', generic_metadata(e))
+    o = allbut('yearPublished', allbut('url', generic_metadata(e)))
     o['partOf'] = book_metadata(e)
     return o
+
+def index(array):
+    return { o['id']: o for o in array }
 
 def get_source_data(url):
     handlers = {
@@ -122,15 +126,19 @@ def get_source_data(url):
 
 def group_by_source(sources, items):
     kfun = itemgetter('source')
-    return [ { 'source': sources[key], 
-               'definitions':[ allbut('source', item) for item in group ] } 
-             for key, group in groupby(sorted(items, key=kfun), kfun) ]
+    return index([ { 'id': ('http://perio.do/temporary/' 
+                            + hashlib.md5(key).hexdigest()),
+                     'source': sources[key], 
+                     'definitions':
+                     index([ allbut('source', item) for item in group ]) } 
+                   for key, group in groupby(sorted(items, key=kfun), kfun) ])
 
     
-o = json.load(open('data.json'))
+o = json.load(open('in.json'))
 context = o['@context']
 context.update({ 
-    'definitions': { '@reverse': SKOS.inScheme },
+    'periodizations': { '@container': '@index' },
+    'definitions': { '@reverse': SKOS.inScheme, '@container': '@index' },
     'partOf': DC.isPartOf,
     'title': DC.title,
     'creators': DC.creator,
@@ -142,7 +150,8 @@ context.update({
 sources = get_source_data(
     'https://api.zotero.org/groups/269098/items/top?start=0&limit=100')
 print json.dumps({ '@context': context, 
-                   '@graph': group_by_source(sources, o['@graph']) })
+                   'periodizations': 
+                   group_by_source(sources, o['definitions'].values()) })
   
 
 
