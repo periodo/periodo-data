@@ -42,7 +42,7 @@
           "note": "chronological table on p. 4; not dividing the archaic period by dynasties (all Mermnad, not usually used to refer to material) or using \"Orientalizing\" (since Lydia the source of much of what is called \"Orientalizing\" in Greece)",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -62,7 +62,7 @@
           "note": "chronological table on p. 4",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -76,20 +76,20 @@
       },
       "id": "http://perio.do/temporary/004d5ac95fc57fece04adf1b9cf27c16",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/36343383",
+        "id": "http://www.worldcat.org/oclc/36343383",
         "contributors": [
           {
-            "@id": "http://viaf.org/viaf/84756187",
+            "id": "http://viaf.org/viaf/84756187",
             "name": "Greenewalt, Crawford H. (Crawford Hallock), 1937-2012."
           },
           {
-            "@id": "http://viaf.org/viaf/268834893",
+            "id": "http://viaf.org/viaf/268834893",
             "name": "Ramage, Nancy H., 1942-"
           }
         ],
         "creators": [
           {
-            "@id": "http://experiment.worldcat.org/entity/work/data/569247#Person/schaeffer_judith_snyder_1937",
+            "id": "http://experiment.worldcat.org/entity/work/data/569247#Person/schaeffer_judith_snyder_1937",
             "name": "Schaeffer, Judith Snyder, 1937-"
           }
         ],
@@ -107,7 +107,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/United_Kingdom",
+              "id": "http://dbpedia.org/resource/United_Kingdom",
               "label": "United Kingdom"
             }
           ],
@@ -121,10 +121,10 @@
       },
       "id": "http://perio.do/temporary/04300328bc9103c559b5b19a0c2797e2",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/27811171",
+        "id": "http://www.worldcat.org/oclc/27811171",
         "creators": [
           {
-            "@id": "http://experiment.worldcat.org/entity/work/data/328301#Person/salway_peter",
+            "id": "http://experiment.worldcat.org/entity/work/data/328301#Person/salway_peter",
             "name": "Salway, Peter."
           }
         ],
@@ -142,11 +142,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -160,10 +160,10 @@
       },
       "id": "http://perio.do/temporary/0711743372566183bc136b873e4f4ae7",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/228701443",
+        "id": "http://www.worldcat.org/oclc/228701443",
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/118969957",
+            "id": "http://viaf.org/viaf/118969957",
             "name": "Daryaee, Touraj, 1967-"
           }
         ],
@@ -182,7 +182,7 @@
           "note": "Contemporary with Hallstatt B-D (S. Germany). Overlaps LBA III/ Tartessian period, 750-600 B.C. (- cf. M. Diaz-Andreu & S. Keay, 1997. The Archaeology of Iberia.); includes Iberian I (600-500 B.C.) and II (500-450 B.C.) (ibid.). See also T. Chapa & M. Belen, 1997. La Edad del Hierro.",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Spain",
+              "id": "http://dbpedia.org/resource/Spain",
               "label": "Spain"
             }
           ],
@@ -221,7 +221,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Pompeii",
+              "id": "http://dbpedia.org/resource/Pompeii",
               "label": "Pompeii"
             }
           ],
@@ -235,10 +235,10 @@
       },
       "id": "http://perio.do/temporary/0d023781ecc91655c1a68fd406ba779c",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/141380307",
+        "id": "http://www.worldcat.org/oclc/141380307",
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/116074325",
+            "id": "http://viaf.org/viaf/116074325",
             "name": "Berry, Joanne, 1971-"
           }
         ],
@@ -256,15 +256,15 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             }
           ],
@@ -284,11 +284,11 @@
           "note": "Dynasty IV from Isin",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -302,10 +302,10 @@
       },
       "id": "http://perio.do/temporary/13ad203e6bd7e54e4ed62ad664c9884c",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/869670586",
+        "id": "http://www.worldcat.org/oclc/869670586",
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/24694541",
+            "id": "http://viaf.org/viaf/24694541",
             "name": "McIntosh, Jane."
           }
         ],
@@ -323,7 +323,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Galicia_(Iberia)",
+              "id": "http://dbpedia.org/resource/Galicia_(Iberia)",
               "label": "Galicia"
             }
           ],
@@ -342,7 +342,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Galicia_(Iberia)",
+              "id": "http://dbpedia.org/resource/Galicia_(Iberia)",
               "label": "Galicia"
             }
           ],
@@ -381,7 +381,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -395,10 +395,10 @@
       },
       "id": "http://perio.do/temporary/41b725ac8a26e17dc85baa0e19a00d6d",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/14372285",
+        "id": "http://www.worldcat.org/oclc/14372285",
         "creators": [
           {
-            "@id": "http://experiment.worldcat.org/entity/work/data/2384353#Person/macqueen_j_g_james_g",
+            "id": "http://experiment.worldcat.org/entity/work/data/2384353#Person/macqueen_j_g_james_g",
             "name": "Macqueen, J. G. (James G.)"
           }
         ],
@@ -418,7 +418,7 @@
           "sourceLocator": "page 123ff",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Libya",
+              "id": "http://dbpedia.org/resource/Libya",
               "label": "Libya"
             }
           ],
@@ -432,10 +432,10 @@
       },
       "id": "http://perio.do/temporary/50b012c302b40a770d44a4a0277bc26e",
       "source": {
-        "@id": "http://dx.doi.org/10.2307/501728",
+        "id": "http://dx.doi.org/10.2307/501728",
         "creators": [
           {
-            "@id": "http://id.crossref.org/contributor/theresa-howard-carter-oac3d5l2pcsg",
+            "id": "http://id.crossref.org/contributor/theresa-howard-carter-oac3d5l2pcsg",
             "name": "Theresa Howard Carter"
           }
         ],
@@ -453,11 +453,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/United_Kingdom",
+              "id": "http://dbpedia.org/resource/United_Kingdom",
               "label": "United Kingdom"
             },
             {
-              "@id": "http://dbpedia.org/resource/Germany",
+              "id": "http://dbpedia.org/resource/Germany",
               "label": "Germany"
             }
           ],
@@ -471,16 +471,16 @@
       },
       "id": "http://perio.do/temporary/51e395bcbeb8be57ccb6d725daa4933f",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/46858003",
+        "id": "http://www.worldcat.org/oclc/46858003",
         "contributors": [
           {
-            "@id": "http://experiment.worldcat.org/entity/work/data/375637550#Person/raftery_barry",
+            "id": "http://experiment.worldcat.org/entity/work/data/375637550#Person/raftery_barry",
             "name": "Raftery, Barry."
           }
         ],
         "creators": [
           {
-            "@id": "http://experiment.worldcat.org/entity/work/data/375637550#Person/twist_clint",
+            "id": "http://experiment.worldcat.org/entity/work/data/375637550#Person/twist_clint",
             "name": "Twist, Clint."
           }
         ],
@@ -498,7 +498,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Italy",
+              "id": "http://dbpedia.org/resource/Italy",
               "label": "Italy"
             }
           ],
@@ -517,7 +517,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Lazio",
+              "id": "http://dbpedia.org/resource/Lazio",
               "label": "Lazio"
             }
           ],
@@ -536,7 +536,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Italy",
+              "id": "http://dbpedia.org/resource/Italy",
               "label": "Italy"
             }
           ],
@@ -555,7 +555,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Rome",
+              "id": "http://dbpedia.org/resource/Rome",
               "label": "Rome"
             }
           ],
@@ -574,7 +574,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Italy",
+              "id": "http://dbpedia.org/resource/Italy",
               "label": "Italy"
             }
           ],
@@ -588,10 +588,10 @@
       },
       "id": "http://perio.do/temporary/6d8f691070dcf9a0a98c339a37991131",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/28291737",
+        "id": "http://www.worldcat.org/oclc/28291737",
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/90071402",
+            "id": "http://viaf.org/viaf/90071402",
             "name": "Holloway, R. Ross, 1934-"
           }
         ],
@@ -610,7 +610,7 @@
           "note": "Applies to Lerna; equivalent to Lerna III. CC307C, Spring 2011, group 1: Jelyne Jesusa and Kevin Sartin.",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             }
           ],
@@ -624,14 +624,14 @@
       },
       "id": "http://perio.do/temporary/6eb0f4e0fd350cbff0f7e381027a8f34",
       "source": {
-        "@id": "http://dx.doi.org/10.2307/502212",
+        "id": "http://dx.doi.org/10.2307/502212",
         "creators": [
           {
-            "@id": "http://id.crossref.org/contributor/elizabeth-k-ralph-135tqa7cwwmiy",
+            "id": "http://id.crossref.org/contributor/elizabeth-k-ralph-135tqa7cwwmiy",
             "name": "Elizabeth K. Ralph"
           },
           {
-            "@id": "http://id.crossref.org/contributor/ellen-l-kohler-135tqa7cwwmiy",
+            "id": "http://id.crossref.org/contributor/ellen-l-kohler-135tqa7cwwmiy",
             "name": "Ellen L. Kohler"
           }
         ],
@@ -649,7 +649,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             }
           ],
@@ -669,7 +669,7 @@
           "note": "CC307C, Spring 2011, group 3: Tyler Conlin and Morgan Newton; note that this period subsumes a separate period \"Dark Age II/III\" that Conlin and Newton drew from McDonald and Coulson, and date 850-800 B.C.",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             }
           ],
@@ -689,7 +689,7 @@
           "note": "CC307C, Spring 2011, group 3: Tyler Conlin and Morgan Newton",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             }
           ],
@@ -709,7 +709,7 @@
           "note": "CC307C, Spring 2011, group 3: Tyler Conlin and Morgan Newton",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             }
           ],
@@ -729,7 +729,7 @@
           "note": "CC307C, Spring 2011, group 3: Tyler Conlin and Morgan Newton",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             }
           ],
@@ -752,14 +752,14 @@
           }
         ],
         "partOf": {
-          "@id": "http://www.worldcat.org/oclc/58641827",
+          "id": "http://www.worldcat.org/oclc/58641827",
           "contributors": [
             {
-              "@id": "http://viaf.org/viaf/46784178",
+              "id": "http://viaf.org/viaf/46784178",
               "name": "Coulson, William D.E."
             },
             {
-              "@id": "http://viaf.org/viaf/111563392",
+              "id": "http://viaf.org/viaf/111563392",
               "name": "MacDonald, William A."
             }
           ],
@@ -781,39 +781,39 @@
           "sourceLocator": "page 341",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -833,11 +833,11 @@
           "sourceLocator": "page 340",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -857,15 +857,15 @@
           "sourceLocator": "page 339",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             }
           ],
@@ -885,15 +885,15 @@
           "sourceLocator": "page 339",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             }
           ],
@@ -913,15 +913,15 @@
           "sourceLocator": "page 339",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             }
           ],
@@ -941,15 +941,15 @@
           "sourceLocator": "page 340",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             }
           ],
@@ -969,7 +969,7 @@
           "sourceLocator": "page 340",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             }
           ],
@@ -989,7 +989,7 @@
           "sourceLocator": "page 55",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             }
           ],
@@ -1009,7 +1009,7 @@
           "sourceLocator": "page 340",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             }
           ],
@@ -1029,7 +1029,7 @@
           "sourceLocator": "page 340",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             }
           ],
@@ -1049,15 +1049,15 @@
           "sourceLocator": "page 340",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             }
           ],
@@ -1077,15 +1077,15 @@
           "sourceLocator": "page 341",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -1106,7 +1106,7 @@
           "sourceLocator": "page 341",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -1127,15 +1127,15 @@
           "sourceLocator": "page 340-341",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             }
           ],
@@ -1155,15 +1155,15 @@
           "sourceLocator": "page 341",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             }
           ],
@@ -1184,11 +1184,11 @@
           "sourceLocator": "page 340",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -1209,15 +1209,15 @@
           "sourceLocator": "page 341",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             }
           ],
@@ -1237,11 +1237,11 @@
           "sourceLocator": "page 341",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -1255,10 +1255,10 @@
       },
       "id": "http://perio.do/temporary/7f49817883cbbddacc28b06cd6ba724c",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/49305832",
+        "id": "http://www.worldcat.org/oclc/49305832",
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/264192834",
+            "id": "http://viaf.org/viaf/264192834",
             "name": "Bertman, Stephen."
           }
         ],
@@ -1277,7 +1277,7 @@
           "note": "Except Judea",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Roman_Empire",
+              "id": "http://dbpedia.org/resource/Roman_Empire",
               "label": "Roman Empire"
             }
           ],
@@ -1296,19 +1296,19 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             }
           ],
@@ -1327,7 +1327,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Roman_Empire",
+              "id": "http://dbpedia.org/resource/Roman_Empire",
               "label": "Roman Empire"
             }
           ],
@@ -1346,15 +1346,15 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1373,7 +1373,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Roman_Empire",
+              "id": "http://dbpedia.org/resource/Roman_Empire",
               "label": "Roman Empire"
             }
           ],
@@ -1392,7 +1392,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Roman_Empire",
+              "id": "http://dbpedia.org/resource/Roman_Empire",
               "label": "Roman Empire"
             }
           ],
@@ -1411,7 +1411,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Roman_Empire",
+              "id": "http://dbpedia.org/resource/Roman_Empire",
               "label": "Roman Empire"
             }
           ],
@@ -1430,7 +1430,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1449,15 +1449,15 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Italy",
+              "id": "http://dbpedia.org/resource/Italy",
               "label": "Italy"
             },
             {
-              "@id": "http://dbpedia.org/resource/Switzerland",
+              "id": "http://dbpedia.org/resource/Switzerland",
               "label": "Switzerland"
             },
             {
-              "@id": "http://dbpedia.org/resource/Provence",
+              "id": "http://dbpedia.org/resource/Provence",
               "label": "Provence"
             }
           ],
@@ -1476,7 +1476,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1495,11 +1495,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Tunisia",
+              "id": "http://dbpedia.org/resource/Tunisia",
               "label": "Tunisia"
             },
             {
-              "@id": "http://dbpedia.org/resource/Libya",
+              "id": "http://dbpedia.org/resource/Libya",
               "label": "Libya"
             }
           ],
@@ -1518,7 +1518,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Spain",
+              "id": "http://dbpedia.org/resource/Spain",
               "label": "Spain"
             }
           ],
@@ -1537,7 +1537,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Egypt",
+              "id": "http://dbpedia.org/resource/Egypt",
               "label": "Egypt"
             }
           ],
@@ -1557,7 +1557,7 @@
           "note": "Except Provence",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/France",
+              "id": "http://dbpedia.org/resource/France",
               "label": "France"
             }
           ],
@@ -1576,7 +1576,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Roman_Empire",
+              "id": "http://dbpedia.org/resource/Roman_Empire",
               "label": "Roman Empire"
             }
           ],
@@ -1590,16 +1590,16 @@
       },
       "id": "http://perio.do/temporary/80a0ee4ba5247a7caa09f6f1add45d07",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/52493926",
+        "id": "http://www.worldcat.org/oclc/52493926",
         "contributors": [
           {
-            "@id": "http://viaf.org/viaf/306459961",
+            "id": "http://viaf.org/viaf/306459961",
             "name": "Woodroffe, David."
           }
         ],
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/246385394",
+            "id": "http://viaf.org/viaf/246385394",
             "name": "McEvedy, Colin."
           }
         ],
@@ -1617,11 +1617,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1640,11 +1640,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1663,11 +1663,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1686,11 +1686,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1709,11 +1709,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1732,11 +1732,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1755,11 +1755,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1778,11 +1778,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1801,11 +1801,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1824,11 +1824,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1847,11 +1847,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1870,11 +1870,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1893,11 +1893,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1916,11 +1916,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1939,11 +1939,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1962,11 +1962,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -1985,11 +1985,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2008,11 +2008,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2031,11 +2031,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2054,11 +2054,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2077,11 +2077,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2100,11 +2100,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2123,11 +2123,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2146,11 +2146,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2169,11 +2169,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2192,11 +2192,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2215,11 +2215,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2238,11 +2238,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2261,11 +2261,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2284,11 +2284,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2307,11 +2307,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2330,11 +2330,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2353,11 +2353,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2376,11 +2376,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2399,11 +2399,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2422,11 +2422,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2445,11 +2445,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2468,11 +2468,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2491,11 +2491,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2514,11 +2514,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2537,11 +2537,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2560,11 +2560,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2583,11 +2583,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2606,11 +2606,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2629,11 +2629,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2652,11 +2652,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2675,11 +2675,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2698,11 +2698,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2721,11 +2721,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2744,11 +2744,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2767,11 +2767,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2790,11 +2790,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2813,11 +2813,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2836,11 +2836,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2859,11 +2859,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2877,10 +2877,10 @@
       },
       "id": "http://perio.do/temporary/84a14e02737f79ffff47648dca679432",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/185123526",
+        "id": "http://www.worldcat.org/oclc/185123526",
         "contributors": [
           {
-            "@id": "http://viaf.org/viaf/4946039",
+            "id": "http://viaf.org/viaf/4946039",
             "name": "Shelmerdine, Cynthia W."
           }
         ],
@@ -2899,7 +2899,7 @@
           "note": "CC307C, Spring 2011, group 3: Tyler Conlin and Morgan Newton",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             }
           ],
@@ -2919,7 +2919,7 @@
           "note": "CC307C, Spring 2011, group 3: Tyler Conlin and Morgan Newton",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             }
           ],
@@ -2933,14 +2933,14 @@
       },
       "id": "http://perio.do/temporary/86dcd9a9f9b7539bb91c92309d7c102e",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/37663433",
+        "id": "http://www.worldcat.org/oclc/37663433",
         "contributors": [
           {
-            "@id": "http://viaf.org/viaf/14872681",
+            "id": "http://viaf.org/viaf/14872681",
             "name": "Alcock, Susan E."
           },
           {
-            "@id": "http://viaf.org/viaf/250582337",
+            "id": "http://viaf.org/viaf/250582337",
             "name": "Davis, Jack L."
           }
         ],
@@ -2959,11 +2959,11 @@
           "sourceLocator": "chronological chart in fig. 1.3",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -2983,11 +2983,11 @@
           "sourceLocator": "chronological chart in fig. 1.3",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -3007,11 +3007,11 @@
           "sourceLocator": "chronological chart in fig. 1.3",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -3025,10 +3025,10 @@
       },
       "id": "http://perio.do/temporary/88225091998f8dc2afa782707fc0f554",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/201147248",
+        "id": "http://www.worldcat.org/oclc/201147248",
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/51702265",
+            "id": "http://viaf.org/viaf/51702265",
             "name": "Pedley, John Griffiths."
           }
         ],
@@ -3046,15 +3046,15 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/France",
+              "id": "http://dbpedia.org/resource/France",
               "label": "France"
             },
             {
-              "@id": "http://dbpedia.org/resource/Switzerland",
+              "id": "http://dbpedia.org/resource/Switzerland",
               "label": "Switzerland"
             },
             {
-              "@id": "http://dbpedia.org/resource/Italy",
+              "id": "http://dbpedia.org/resource/Italy",
               "label": "Italy"
             }
           ],
@@ -3073,7 +3073,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/United_Kingdom",
+              "id": "http://dbpedia.org/resource/United_Kingdom",
               "label": "United Kingdom"
             }
           ],
@@ -3092,15 +3092,15 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Germany",
+              "id": "http://dbpedia.org/resource/Germany",
               "label": "Germany"
             },
             {
-              "@id": "http://dbpedia.org/resource/France",
+              "id": "http://dbpedia.org/resource/France",
               "label": "France"
             },
             {
-              "@id": "http://dbpedia.org/resource/United_Kingdom",
+              "id": "http://dbpedia.org/resource/United_Kingdom",
               "label": "United Kingdom"
             }
           ],
@@ -3119,11 +3119,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Germany",
+              "id": "http://dbpedia.org/resource/Germany",
               "label": "Germany"
             },
             {
-              "@id": "http://dbpedia.org/resource/France",
+              "id": "http://dbpedia.org/resource/France",
               "label": "France"
             }
           ],
@@ -3142,7 +3142,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/United_Kingdom",
+              "id": "http://dbpedia.org/resource/United_Kingdom",
               "label": "United Kingdom"
             }
           ],
@@ -3161,19 +3161,19 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/France",
+              "id": "http://dbpedia.org/resource/France",
               "label": "France"
             },
             {
-              "@id": "http://dbpedia.org/resource/Switzerland",
+              "id": "http://dbpedia.org/resource/Switzerland",
               "label": "Switzerland"
             },
             {
-              "@id": "http://dbpedia.org/resource/Italy",
+              "id": "http://dbpedia.org/resource/Italy",
               "label": "Italy"
             },
             {
-              "@id": "http://dbpedia.org/resource/Germany",
+              "id": "http://dbpedia.org/resource/Germany",
               "label": "Germany"
             }
           ],
@@ -3192,7 +3192,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/United_Kingdom",
+              "id": "http://dbpedia.org/resource/United_Kingdom",
               "label": "United Kingdom"
             }
           ],
@@ -3211,11 +3211,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/France",
+              "id": "http://dbpedia.org/resource/France",
               "label": "France"
             },
             {
-              "@id": "http://dbpedia.org/resource/Germany",
+              "id": "http://dbpedia.org/resource/Germany",
               "label": "Germany"
             }
           ],
@@ -3234,7 +3234,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/United_Kingdom",
+              "id": "http://dbpedia.org/resource/United_Kingdom",
               "label": "United Kingdom"
             }
           ],
@@ -3253,11 +3253,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Germany",
+              "id": "http://dbpedia.org/resource/Germany",
               "label": "Germany"
             },
             {
-              "@id": "http://dbpedia.org/resource/France",
+              "id": "http://dbpedia.org/resource/France",
               "label": "France"
             }
           ],
@@ -3271,10 +3271,10 @@
       },
       "id": "http://perio.do/temporary/8c5401d8e94b2d06ac13a2588acb0d0d",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/4720505",
+        "id": "http://www.worldcat.org/oclc/4720505",
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/47377454",
+            "id": "http://viaf.org/viaf/47377454",
             "name": "Scullard, H. H. (Howard Hayes), 1903-1983."
           }
         ],
@@ -3294,7 +3294,7 @@
           "sourceLocator": "page 197",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sicily",
+              "id": "http://dbpedia.org/resource/Sicily",
               "label": "Sicily"
             }
           ],
@@ -3314,7 +3314,7 @@
           "sourceLocator": "page 197",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sicily",
+              "id": "http://dbpedia.org/resource/Sicily",
               "label": "Sicily"
             }
           ],
@@ -3328,14 +3328,14 @@
       },
       "id": "http://perio.do/temporary/95df1a791f7f5f77ee0a850bb8692e79",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/231810256",
+        "id": "http://www.worldcat.org/oclc/231810256",
         "contributors": [
           {
-            "@id": "http://viaf.org/viaf/79222092",
+            "id": "http://viaf.org/viaf/79222092",
             "name": "Fitzjohn, Matthew."
           },
           {
-            "@id": "http://viaf.org/viaf/124058754",
+            "id": "http://viaf.org/viaf/124058754",
             "name": "Accordia Research Institute."
           }
         ],
@@ -3354,11 +3354,11 @@
           "note": "Commagene was ruled by Rome between 17 B.C. and 38 A.D.",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Armenia",
+              "id": "http://dbpedia.org/resource/Armenia",
               "label": "Armenia"
             }
           ],
@@ -3372,10 +3372,10 @@
       },
       "id": "http://perio.do/temporary/9822e423242cba5cb0efea3e8403cf4c",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/23762169",
+        "id": "http://www.worldcat.org/oclc/23762169",
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/43318902",
+            "id": "http://viaf.org/viaf/43318902",
             "name": "Chahin, M., 1912-"
           }
         ],
@@ -3394,7 +3394,7 @@
           "note": "CC307C, Spring 2011, group 3: Tyler Conlin and Morgan Newton. NB: the VIAF authority should be Nancy Wilkie",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             }
           ],
@@ -3417,18 +3417,18 @@
           }
         ],
         "partOf": {
-          "@id": "http://www.worldcat.org/oclc/181828148",
+          "id": "http://www.worldcat.org/oclc/181828148",
           "contributors": [
             {
-              "@id": "http://experiment.worldcat.org/entity/work/data/118223832#Meeting/colloque_de_liege_1986",
+              "id": "http://experiment.worldcat.org/entity/work/data/118223832#Meeting/colloque_de_liege_1986",
               "name": "Colloque de Liège (1986)"
             },
             {
-              "@id": "http://viaf.org/viaf/272936458",
+              "id": "http://viaf.org/viaf/272936458",
               "name": "Université de Liège."
             },
             {
-              "@id": "http://experiment.worldcat.org/entity/work/data/118223832#Person/laffineur_robert",
+              "id": "http://experiment.worldcat.org/entity/work/data/118223832#Person/laffineur_robert",
               "name": "Laffineur, Robert."
             }
           ],
@@ -3448,27 +3448,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -3487,27 +3487,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -3526,27 +3526,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -3560,10 +3560,10 @@
       },
       "id": "http://perio.do/temporary/9a3331ad075a93d85631284fa2de6429",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/63390787",
+        "id": "http://www.worldcat.org/oclc/63390787",
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/75011781",
+            "id": "http://viaf.org/viaf/75011781",
             "name": "Yon, Marguerite."
           }
         ],
@@ -3582,7 +3582,7 @@
           "note": "See also Charvat 2002",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             }
           ],
@@ -3602,7 +3602,7 @@
           "note": "See also Liverani 2006",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             }
           ],
@@ -3622,7 +3622,7 @@
           "note": "See also Liverani 2006",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             }
           ],
@@ -3636,16 +3636,16 @@
       },
       "id": "http://perio.do/temporary/9b11d250ce9b6196061699dd364e8a3b",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/483580",
+        "id": "http://www.worldcat.org/oclc/483580",
         "contributors": [
           {
-            "@id": "http://viaf.org/viaf/92287776",
+            "id": "http://viaf.org/viaf/92287776",
             "name": "Nissen, Hans Jörg."
           }
         ],
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/108452288",
+            "id": "http://viaf.org/viaf/108452288",
             "name": "Adams, Robert McC. (Robert McCormick), 1926-"
           }
         ],
@@ -3663,7 +3663,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Pompeii",
+              "id": "http://dbpedia.org/resource/Pompeii",
               "label": "Pompeii"
             }
           ],
@@ -3682,7 +3682,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Pompeii",
+              "id": "http://dbpedia.org/resource/Pompeii",
               "label": "Pompeii"
             }
           ],
@@ -3701,7 +3701,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Pompeii",
+              "id": "http://dbpedia.org/resource/Pompeii",
               "label": "Pompeii"
             }
           ],
@@ -3720,7 +3720,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Pompeii",
+              "id": "http://dbpedia.org/resource/Pompeii",
               "label": "Pompeii"
             }
           ],
@@ -3734,10 +3734,10 @@
       },
       "id": "http://perio.do/temporary/a49888111043868fef2af1d2a4045091",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/16278212",
+        "id": "http://www.worldcat.org/oclc/16278212",
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/90631096",
+            "id": "http://viaf.org/viaf/90631096",
             "name": "Richardson, Lawrence."
           }
         ],
@@ -3755,7 +3755,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Italy",
+              "id": "http://dbpedia.org/resource/Italy",
               "label": "Italy"
             }
           ],
@@ -3769,20 +3769,20 @@
       },
       "id": "http://perio.do/temporary/adbed0e4ec9e51132a6221ba84756a20",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/37878669",
+        "id": "http://www.worldcat.org/oclc/37878669",
         "contributors": [
           {
-            "@id": "http://viaf.org/viaf/224180456",
+            "id": "http://viaf.org/viaf/224180456",
             "name": "Cubberley, Tony."
           },
           {
-            "@id": "http://viaf.org/viaf/44517357",
+            "id": "http://viaf.org/viaf/44517357",
             "name": "Toms, Judith."
           }
         ],
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/214059648",
+            "id": "http://viaf.org/viaf/214059648",
             "name": "Claridge, Amanda."
           }
         ],
@@ -3801,7 +3801,7 @@
           "note": "Castellucian culture is specific to southern Sicily (during Aegean EBA and MBA), and is identified by pottery style (linear designs in black on red slip) and rock-cut chamber tombs. See also S. Tusa. 1993. La Sicilia nella preistoria.",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sicily",
+              "id": "http://dbpedia.org/resource/Sicily",
               "label": "Sicily"
             }
           ],
@@ -3815,10 +3815,10 @@
       },
       "id": "http://perio.do/temporary/bb44303bf66da5392976aa6e59d1316a",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/44694342",
+        "id": "http://www.worldcat.org/oclc/44694342",
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/90071402",
+            "id": "http://viaf.org/viaf/90071402",
             "name": "Holloway, R. Ross, 1934-"
           }
         ],
@@ -3837,7 +3837,7 @@
           "note": "Beginning-date corresponds with the end of the Celtiberian wars; outside of the Celtiberian homeland, the Republican period in Spain begins 218 B.C. (Second Punic War).",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Spain",
+              "id": "http://dbpedia.org/resource/Spain",
               "label": "Spain"
             }
           ],
@@ -3851,10 +3851,10 @@
       },
       "id": "http://perio.do/temporary/c56cfb090b245452c2849c394db4d94c",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/51937089",
+        "id": "http://www.worldcat.org/oclc/51937089",
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/17271321",
+            "id": "http://viaf.org/viaf/17271321",
             "name": "Curchin, Leonard A., 1950-"
           }
         ],
@@ -3873,7 +3873,7 @@
           "note": "From chronology chart on p. 12; = Achaemenid period",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -3893,7 +3893,7 @@
           "note": "From chronological table on p. 12; = Lydian \"Early Iron Age\"",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -3913,7 +3913,7 @@
           "note": "R's Middle Lydian period is coterminous with the Mermnad dynasty: chronological chart on p. 12",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -3927,10 +3927,10 @@
       },
       "id": "http://perio.do/temporary/c86d047c3a00b54f325c11e9ad49f1fe",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/317623282",
+        "id": "http://www.worldcat.org/oclc/317623282",
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/83499138",
+            "id": "http://viaf.org/viaf/83499138",
             "name": "Roosevelt, Christopher H. (Christopher Havemeyer), 1972-"
           }
         ],
@@ -3948,11 +3948,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -3971,11 +3971,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -3994,11 +3994,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -4017,11 +4017,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -4040,11 +4040,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -4063,11 +4063,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -4086,11 +4086,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -4104,20 +4104,20 @@
       },
       "id": "http://perio.do/temporary/c93a7c6269460b95ba05c23deb3f0889",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/53059176",
+        "id": "http://www.worldcat.org/oclc/53059176",
         "contributors": [
           {
-            "@id": "http://viaf.org/viaf/109510098",
+            "id": "http://viaf.org/viaf/109510098",
             "name": "Addiss, Stephen, 1935-"
           },
           {
-            "@id": "http://viaf.org/viaf/208783764",
+            "id": "http://viaf.org/viaf/208783764",
             "name": "Cateforis, David."
           }
         ],
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/84493762",
+            "id": "http://viaf.org/viaf/84493762",
             "name": "Stokstad, Marilyn, 1929-"
           }
         ],
@@ -4135,7 +4135,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Italy",
+              "id": "http://dbpedia.org/resource/Italy",
               "label": "Italy"
             }
           ],
@@ -4149,14 +4149,14 @@
       },
       "id": "http://perio.do/temporary/c9d8d7ffeb3b136adfadb702179c0738",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/783109160",
+        "id": "http://www.worldcat.org/oclc/783109160",
         "contributors": [
           {
-            "@id": "http://viaf.org/viaf/66565783",
+            "id": "http://viaf.org/viaf/66565783",
             "name": "Hornblower, Simon."
           },
           {
-            "@id": "http://viaf.org/viaf/29582600",
+            "id": "http://viaf.org/viaf/29582600",
             "name": "Spawforth, Antony (Antony J.S.)"
           }
         ],
@@ -4174,7 +4174,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sicily",
+              "id": "http://dbpedia.org/resource/Sicily",
               "label": "Sicily"
             }
           ],
@@ -4193,7 +4193,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sicily",
+              "id": "http://dbpedia.org/resource/Sicily",
               "label": "Sicily"
             }
           ],
@@ -4212,7 +4212,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sicily",
+              "id": "http://dbpedia.org/resource/Sicily",
               "label": "Sicily"
             }
           ],
@@ -4231,7 +4231,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sicily",
+              "id": "http://dbpedia.org/resource/Sicily",
               "label": "Sicily"
             }
           ],
@@ -4250,7 +4250,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sicily",
+              "id": "http://dbpedia.org/resource/Sicily",
               "label": "Sicily"
             }
           ],
@@ -4269,7 +4269,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sicily",
+              "id": "http://dbpedia.org/resource/Sicily",
               "label": "Sicily"
             }
           ],
@@ -4288,7 +4288,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sicily",
+              "id": "http://dbpedia.org/resource/Sicily",
               "label": "Sicily"
             }
           ],
@@ -4307,7 +4307,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sicily",
+              "id": "http://dbpedia.org/resource/Sicily",
               "label": "Sicily"
             }
           ],
@@ -4326,7 +4326,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sicily",
+              "id": "http://dbpedia.org/resource/Sicily",
               "label": "Sicily"
             }
           ],
@@ -4345,7 +4345,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sicily",
+              "id": "http://dbpedia.org/resource/Sicily",
               "label": "Sicily"
             }
           ],
@@ -4364,7 +4364,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sicily",
+              "id": "http://dbpedia.org/resource/Sicily",
               "label": "Sicily"
             }
           ],
@@ -4383,7 +4383,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sicily",
+              "id": "http://dbpedia.org/resource/Sicily",
               "label": "Sicily"
             }
           ],
@@ -4402,7 +4402,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sicily",
+              "id": "http://dbpedia.org/resource/Sicily",
               "label": "Sicily"
             }
           ],
@@ -4416,10 +4416,10 @@
       },
       "id": "http://perio.do/temporary/cb92927b3a635e9404dd563c2ba9c51f",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/39695441",
+        "id": "http://www.worldcat.org/oclc/39695441",
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/66623296",
+            "id": "http://viaf.org/viaf/66623296",
             "name": "Leighton, Robert, 1958-"
           }
         ],
@@ -4437,27 +4437,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -4476,27 +4476,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -4515,27 +4515,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -4554,27 +4554,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -4593,27 +4593,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -4632,27 +4632,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -4671,27 +4671,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -4710,27 +4710,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -4749,27 +4749,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -4788,27 +4788,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -4827,27 +4827,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -4866,27 +4866,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -4905,27 +4905,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -4944,27 +4944,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -4983,27 +4983,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -5022,27 +5022,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -5061,27 +5061,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -5100,27 +5100,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -5139,27 +5139,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -5178,27 +5178,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -5217,27 +5217,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -5256,27 +5256,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -5290,16 +5290,16 @@
       },
       "id": "http://perio.do/temporary/d304fcf0f96d7ae09d5815daaa8ba047",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/52728859",
+        "id": "http://www.worldcat.org/oclc/52728859",
         "contributors": [
           {
-            "@id": "http://viaf.org/viaf/37097513",
+            "id": "http://viaf.org/viaf/37097513",
             "name": "Mattern, Susan P., 1966-"
           }
         ],
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/66483584",
+            "id": "http://viaf.org/viaf/66483584",
             "name": "Winks, Robin W."
           }
         ],
@@ -5318,7 +5318,7 @@
           "note": "See also G. Lilliu, 2003. La civiltÃ dei Sardi dal paleolitico all'etÃ dei nuraghi; G.S. Webster, 1996. A Prehistory of Sardinia 2300-500BC. Also known as Nuragic III (following Nuragic I = Early Bronze Age, 1800-1500 B.C.; & Nuragic II = Middle Bronze Age, 1500-1200 B.C.)",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sardinia",
+              "id": "http://dbpedia.org/resource/Sardinia",
               "label": "Sardinia"
             }
           ],
@@ -5338,7 +5338,7 @@
           "note": "Also known as Nuragic V, or final Nuragic (cf. Late Bronze Age & Iron Age Sardinian) = period of Carthaginian hegemony, ending in Roman annexation of Sardinia, 238 B.C.",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sardinia",
+              "id": "http://dbpedia.org/resource/Sardinia",
               "label": "Sardinia"
             }
           ],
@@ -5358,7 +5358,7 @@
           "note": "Also known as Nuragic IV (cf. Late Bronze Age/ Sardinian)",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Sardinia",
+              "id": "http://dbpedia.org/resource/Sardinia",
               "label": "Sardinia"
             }
           ],
@@ -5372,16 +5372,16 @@
       },
       "id": "http://perio.do/temporary/d5b68f6acb60fba3ca3b1b12218d52fa",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/175286417",
+        "id": "http://www.worldcat.org/oclc/175286417",
         "contributors": [
           {
-            "@id": "http://experiment.worldcat.org/entity/work/data/1104412448#Person/rowland_robert_j_1938",
+            "id": "http://experiment.worldcat.org/entity/work/data/1104412448#Person/rowland_robert_j_1938",
             "name": "Rowland, Robert J., 1938-"
           }
         ],
         "creators": [
           {
-            "@id": "http://experiment.worldcat.org/entity/work/data/1104412448#Person/dyson_stephen_l",
+            "id": "http://experiment.worldcat.org/entity/work/data/1104412448#Person/dyson_stephen_l",
             "name": "Dyson, Stephen L."
           }
         ],
@@ -5400,11 +5400,11 @@
           "note": "Samsuiluna of Babylon destroyed the walls of Uruk at 1740 B.C. After this date the tablets are in Akkadian (before it was Sumerian) Woolley, 1982, 215",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -5423,11 +5423,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -5447,11 +5447,11 @@
           "note": "These are approximate dates.",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -5465,16 +5465,16 @@
       },
       "id": "http://perio.do/temporary/d83c9ae986aea690192098f651fc0953",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/8800122",
+        "id": "http://www.worldcat.org/oclc/8800122",
         "contributors": [
           {
-            "@id": "http://viaf.org/viaf/108196174",
+            "id": "http://viaf.org/viaf/108196174",
             "name": "Moorey, P. R. S. (Peter Roger Stuart), 1937-"
           }
         ],
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/88797443",
+            "id": "http://viaf.org/viaf/88797443",
             "name": "Woolley, Leonard, 1880-1960."
           }
         ],
@@ -5492,7 +5492,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Egypt",
+              "id": "http://dbpedia.org/resource/Egypt",
               "label": "Egypt"
             }
           ],
@@ -5512,7 +5512,7 @@
           "note": "Robins' chronology is being used in preference to Freeman's, since it seems to represent the general textbook situation more accurately.",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Egypt",
+              "id": "http://dbpedia.org/resource/Egypt",
               "label": "Egypt"
             }
           ],
@@ -5531,7 +5531,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Egypt",
+              "id": "http://dbpedia.org/resource/Egypt",
               "label": "Egypt"
             }
           ],
@@ -5550,7 +5550,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Egypt",
+              "id": "http://dbpedia.org/resource/Egypt",
               "label": "Egypt"
             }
           ],
@@ -5564,10 +5564,10 @@
       },
       "id": "http://perio.do/temporary/def2fc3fac51577d4d2fffaa446af26a",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/45184072",
+        "id": "http://www.worldcat.org/oclc/45184072",
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/79081320",
+            "id": "http://viaf.org/viaf/79081320",
             "name": "Robins, Gay."
           }
         ],
@@ -5587,7 +5587,7 @@
           "sourceLocator": "",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Spain",
+              "id": "http://dbpedia.org/resource/Spain",
               "label": "Spain"
             }
           ],
@@ -5601,10 +5601,10 @@
       },
       "id": "http://perio.do/temporary/e0c20c8e69f999978469f3e9a6215fd7",
       "source": {
-        "@id": "http://dx.doi.org/10.1111/j.1468-0092.2008.00303.x",
+        "id": "http://dx.doi.org/10.1111/j.1468-0092.2008.00303.x",
         "creators": [
           {
-            "@id": "http://id.crossref.org/contributor/maria-carme-belarte-2mkpvn5eyc7oh",
+            "id": "http://id.crossref.org/contributor/maria-carme-belarte-2mkpvn5eyc7oh",
             "name": "MARIA CARME BELARTE"
           }
         ],
@@ -5623,7 +5623,7 @@
           "note": "CC307C, Spring 2011, group 3: Tyler Conlin and Morgan Newton",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             }
           ],
@@ -5637,10 +5637,10 @@
       },
       "id": "http://perio.do/temporary/e839ada460e716ccc2eb0c595af28382",
       "source": {
-        "@id": "http://dx.doi.org/10.2307/147682",
+        "id": "http://dx.doi.org/10.2307/147682",
         "creators": [
           {
-            "@id": "http://id.crossref.org/contributor/william-a-mcdonald-8g22fp5113hn",
+            "id": "http://id.crossref.org/contributor/william-a-mcdonald-8g22fp5113hn",
             "name": "William A. McDonald"
           }
         ],
@@ -5660,7 +5660,7 @@
           "sourceLocator": "",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Spain",
+              "id": "http://dbpedia.org/resource/Spain",
               "label": "Spain"
             }
           ],
@@ -5674,10 +5674,10 @@
       },
       "id": "http://perio.do/temporary/e86b6c13769d7d8506448e6249dcdfaf",
       "source": {
-        "@id": "http://dx.doi.org/10.1111/1468-0092.00058",
+        "id": "http://dx.doi.org/10.1111/1468-0092.00058",
         "creators": [
           {
-            "@id": "http://id.crossref.org/contributor/paloma-cabrera-2n9ibv8zw4vsd",
+            "id": "http://id.crossref.org/contributor/paloma-cabrera-2n9ibv8zw4vsd",
             "name": "Paloma Cabrera"
           }
         ],
@@ -5695,7 +5695,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             }
           ],
@@ -5709,16 +5709,16 @@
       },
       "id": "http://perio.do/temporary/ea0a69674dd05d749c0fa78b49bb334d",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/31307",
+        "id": "http://www.worldcat.org/oclc/31307",
         "contributors": [
           {
-            "@id": "http://viaf.org/viaf/266831006",
+            "id": "http://viaf.org/viaf/266831006",
             "name": "Glubok, Shirley,"
           }
         ],
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/88797443",
+            "id": "http://viaf.org/viaf/88797443",
             "name": "Woolley, Leonard, 1880-1960."
           }
         ],
@@ -5736,15 +5736,15 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             }
           ],
@@ -5763,15 +5763,15 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             }
           ],
@@ -5790,15 +5790,15 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             }
           ],
@@ -5817,19 +5817,19 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -5848,11 +5848,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             }
           ],
@@ -5871,19 +5871,19 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -5902,11 +5902,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -5925,7 +5925,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Cyprus",
+              "id": "http://dbpedia.org/resource/Cyprus",
               "label": "Cyprus"
             }
           ],
@@ -5944,7 +5944,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Cyprus",
+              "id": "http://dbpedia.org/resource/Cyprus",
               "label": "Cyprus"
             }
           ],
@@ -5963,7 +5963,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Cyprus",
+              "id": "http://dbpedia.org/resource/Cyprus",
               "label": "Cyprus"
             }
           ],
@@ -5982,11 +5982,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             }
           ],
@@ -6005,11 +6005,11 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -6028,15 +6028,15 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -6055,39 +6055,39 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -6106,27 +6106,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -6145,15 +6145,15 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             }
           ],
@@ -6173,7 +6173,7 @@
           "note": "Old Babylonian period in Babylon covers between ca. 2000-1530 B.C. In Ur, the Old Babylonian period starts with Samsuiluna's complete destruction of Ur, at 1740 B.C. The ending date 1530 B.C. is from Gates, 2003 (Woolley uses 1600 B.C. instead)",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Ur",
+              "id": "http://dbpedia.org/resource/Ur",
               "label": "Ur"
             }
           ],
@@ -6192,15 +6192,15 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Babylon",
+              "id": "http://dbpedia.org/resource/Babylon",
               "label": "Babylon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -6219,7 +6219,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -6238,27 +6238,27 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -6277,39 +6277,39 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             },
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/Jordan",
+              "id": "http://dbpedia.org/resource/Jordan",
               "label": "Jordan"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             }
           ],
@@ -6328,19 +6328,19 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             },
             {
-              "@id": "http://dbpedia.org/resource/Syria",
+              "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -6360,11 +6360,11 @@
           "note": "According to Gates, Gutian domination of Mesopotamia was ended by Ur-Nammu, the first ruler of the Third dynasty of Ur (2100 B.C.-2000 B.C.)",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iraq",
+              "id": "http://dbpedia.org/resource/Iraq",
               "label": "Iraq"
             },
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -6378,10 +6378,10 @@
       },
       "id": "http://perio.do/temporary/ee5270b72297b432dd086ea66eadc74e",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/51042563",
+        "id": "http://www.worldcat.org/oclc/51042563",
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/54434741",
+            "id": "http://viaf.org/viaf/54434741",
             "name": "Gates, Charles, 1950-"
           }
         ],
@@ -6400,7 +6400,7 @@
           "note": "Kingdom was ruled by Romans between 17 A.D.-43 A.D.",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -6414,10 +6414,10 @@
       },
       "id": "http://perio.do/temporary/f6ad8c7cd0422c3c16ad778d1cedb98a",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/398120",
+        "id": "http://www.worldcat.org/oclc/398120",
         "creators": [
           {
-            "@id": "http://experiment.worldcat.org/entity/work/data/1546109#Person/toumanoff_cyrille",
+            "id": "http://experiment.worldcat.org/entity/work/data/1546109#Person/toumanoff_cyrille",
             "name": "Toumanoff, Cyrille."
           }
         ],
@@ -6435,7 +6435,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Egypt",
+              "id": "http://dbpedia.org/resource/Egypt",
               "label": "Egypt"
             }
           ],
@@ -6454,7 +6454,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Egypt",
+              "id": "http://dbpedia.org/resource/Egypt",
               "label": "Egypt"
             }
           ],
@@ -6473,7 +6473,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Egypt",
+              "id": "http://dbpedia.org/resource/Egypt",
               "label": "Egypt"
             }
           ],
@@ -6492,7 +6492,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Egypt",
+              "id": "http://dbpedia.org/resource/Egypt",
               "label": "Egypt"
             }
           ],
@@ -6511,19 +6511,19 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Israel",
+              "id": "http://dbpedia.org/resource/Israel",
               "label": "Israel"
             },
             {
-              "@id": "http://dbpedia.org/resource/West_Bank",
+              "id": "http://dbpedia.org/resource/West_Bank",
               "label": "West Bank"
             },
             {
-              "@id": "http://dbpedia.org/resource/Gaza_Strip",
+              "id": "http://dbpedia.org/resource/Gaza_Strip",
               "label": "Gaza"
             },
             {
-              "@id": "http://dbpedia.org/resource/Lebanon",
+              "id": "http://dbpedia.org/resource/Lebanon",
               "label": "Lebanon"
             }
           ],
@@ -6542,7 +6542,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Lower_Egypt",
+              "id": "http://dbpedia.org/resource/Lower_Egypt",
               "label": "Lower Egypt"
             }
           ],
@@ -6561,7 +6561,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Upper_Egypt",
+              "id": "http://dbpedia.org/resource/Upper_Egypt",
               "label": "Upper Egypt"
             }
           ],
@@ -6580,7 +6580,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Egypt",
+              "id": "http://dbpedia.org/resource/Egypt",
               "label": "Egypt"
             }
           ],
@@ -6599,7 +6599,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Egypt",
+              "id": "http://dbpedia.org/resource/Egypt",
               "label": "Egypt"
             }
           ],
@@ -6618,7 +6618,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Egypt",
+              "id": "http://dbpedia.org/resource/Egypt",
               "label": "Egypt"
             }
           ],
@@ -6637,7 +6637,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Egypt",
+              "id": "http://dbpedia.org/resource/Egypt",
               "label": "Egypt"
             }
           ],
@@ -6651,10 +6651,10 @@
       },
       "id": "http://perio.do/temporary/f9c7d56550221a94f104029fd1c36620",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/53156026",
+        "id": "http://www.worldcat.org/oclc/53156026",
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/97824134",
+            "id": "http://viaf.org/viaf/97824134",
             "name": "Freeman, Charles."
           }
         ],
@@ -6672,15 +6672,15 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Italy",
+              "id": "http://dbpedia.org/resource/Italy",
               "label": "Italy"
             },
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -6699,15 +6699,15 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Italy",
+              "id": "http://dbpedia.org/resource/Italy",
               "label": "Italy"
             },
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -6726,15 +6726,15 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Italy",
+              "id": "http://dbpedia.org/resource/Italy",
               "label": "Italy"
             },
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             },
             {
-              "@id": "http://dbpedia.org/resource/Turkey",
+              "id": "http://dbpedia.org/resource/Turkey",
               "label": "Turkey"
             }
           ],
@@ -6748,16 +6748,16 @@
       },
       "id": "http://perio.do/temporary/fb18c02c5e7bde97efdfcb2b4d5f8537",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/34112171",
+        "id": "http://www.worldcat.org/oclc/34112171",
         "contributors": [
           {
-            "@id": "http://experiment.worldcat.org/entity/work/data/34374830#Person/ramage_andrew",
+            "id": "http://experiment.worldcat.org/entity/work/data/34374830#Person/ramage_andrew",
             "name": "Ramage, Andrew."
           }
         ],
         "creators": [
           {
-            "@id": "http://viaf.org/viaf/268834893",
+            "id": "http://viaf.org/viaf/268834893",
             "name": "Ramage, Nancy H., 1942-"
           }
         ],
@@ -6775,7 +6775,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -6794,7 +6794,7 @@
           },
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -6814,7 +6814,7 @@
           "note": "This period corresponds to Proto-Literate period in Mesopotamia",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -6834,7 +6834,7 @@
           "note": "This period designates prehistoric Susa and corresponds to Ubaid period in Mesopotamia.",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -6854,7 +6854,7 @@
           "note": "Prehistoric Susa II, corresponds to Mesopotamian Ubaid period",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Iran",
+              "id": "http://dbpedia.org/resource/Iran",
               "label": "Iran"
             }
           ],
@@ -6868,28 +6868,28 @@
       },
       "id": "http://perio.do/temporary/fd619d7607c03cdc07129e45425ab6b4",
       "source": {
-        "@id": "http://www.worldcat.org/oclc/26257582",
+        "id": "http://www.worldcat.org/oclc/26257582",
         "contributors": [
           {
-            "@id": "http://viaf.org/viaf/126238294",
+            "id": "http://viaf.org/viaf/126238294",
             "name": "Metropolitan Museum of Art (New York, N.Y.)"
           },
           {
-            "@id": "http://viaf.org/viaf/222175842",
+            "id": "http://viaf.org/viaf/222175842",
             "name": "Harper, Prudence Oliver."
           },
           {
-            "@id": "http://experiment.worldcat.org/entity/work/data/793493821#Person/aruz_joan",
+            "id": "http://experiment.worldcat.org/entity/work/data/793493821#Person/aruz_joan",
             "name": "Aruz, Joan."
           },
           {
-            "@id": "http://experiment.worldcat.org/entity/work/data/793493821#Person/tallon_francoise",
+            "id": "http://experiment.worldcat.org/entity/work/data/793493821#Person/tallon_francoise",
             "name": "Tallon, Françoise."
           }
         ],
         "creators": [
           {
-            "@id": "http://experiment.worldcat.org/entity/work/data/793493821#Organization/musee_du_louvre",
+            "id": "http://experiment.worldcat.org/entity/work/data/793493821#Organization/musee_du_louvre",
             "name": "Musée du Louvre"
           }
         ],
@@ -6909,7 +6909,7 @@
           "sourceLocator": "page 366",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             }
           ],
@@ -6930,7 +6930,7 @@
           "sourceLocator": "page 366",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             }
           ],
@@ -6951,7 +6951,7 @@
           "sourceLocator": "page 366",
           "spatialCoverage": [
             {
-              "@id": "http://dbpedia.org/resource/Greece",
+              "id": "http://dbpedia.org/resource/Greece",
               "label": "Greece"
             }
           ],
