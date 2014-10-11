@@ -61,6 +61,7 @@ def generic_metadata(e):
                  'yearPublished': int(e.find('zapi:year', NSS).text),
                  'creators': [ { 'name': name } for name in o['creator'] ] }
     if 'url' in o: metadata['url'] = o['url']
+    if 'abstractNote' in o: metadata['note'] = o['abstractNote']
     return metadata
 
 def article_metadata(e):
@@ -91,9 +92,11 @@ def book_metadata(e):
     book = URIRef(url)
     creators = list(g[book:SCH.creator])
     contributors = list(g[book:SCH.contributor])
-    if len(creators) + len(contributors) == 0:
+    editors = list(g[book:SCH.editor])
+    authors = list(g[book:SCH.author])
+    if len(creators) + len(contributors) + len(editors) + len(authors) == 0:
         raise Exception(
-            'no creators or contributors for ' + e.find('atom:id', NSS).text)
+            'no creators or contributors from:\n' + url)
     o = { '@id': url,
           'title': label(g, book),
           'yearPublished': int(g.value(book, SCH.datePublished).value) }
@@ -103,6 +106,16 @@ def book_metadata(e):
     if len(contributors) > 0:
         o['contributors'] = [ { '@id': str(uri), 'name': label(g, uri) }
                               for uri in contributors ]
+    if len(editors) > 0:
+        # treat editors as contributors
+        contributors = o.setdefault('contributors', [])
+        contributors += [ { '@id': str(uri), 'name': label(g, uri) }
+                          for uri in editors ]
+    if len(authors) > 0:
+        # treat authors as creators
+        creators = o.setdefault('creators', [])
+        creators += [ { '@id': str(uri), 'name': label(g, uri) }
+                          for uri in authors ]
     return o
 
 def booksection_metadata(e):
@@ -115,9 +128,11 @@ def index(array):
 
 def get_source_data(url):
     handlers = {
-        'book': book_metadata,
-        'bookSection': booksection_metadata,
+        'book'          : book_metadata,
+        'bookSection'   : booksection_metadata,
+        'document'      : generic_metadata,
         'journalArticle': article_metadata,
+        'webpage'       : generic_metadata,
     }
     root = ET.parse(urlopen(url)).getroot()
     return dict([ (e.find('atom:id', NSS).text,
@@ -148,7 +163,7 @@ context.update({
     'url': FOAF.homepage,
 })
 sources = get_source_data(
-    'https://api.zotero.org/groups/269098/items/top?start=0&limit=100')
+    'https://api.zotero.org/groups/269098/items/top?start=0&limit=1000')
 print json.dumps({ '@context': context, 
                    'periodizations': 
                    group_by_source(sources, o['definitions'].values()) })
