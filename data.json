@@ -20,7 +20,8 @@
     "note": "http://www.w3.org/2004/02/skos/core#note",
     "partOf": "http://purl.org/dc/terms/isPartOf",
     "periodizations": {
-      "@container": "@index"
+      "@container": "@index",
+      "@id": "http://perio.do/temporary",
     },
     "source": "http://purl.org/dc/terms/source",
     "spatialCoverage": "http://purl.org/dc/terms/spatial",
