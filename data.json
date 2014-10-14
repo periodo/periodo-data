@@ -11,6 +11,7 @@
       "@reverse": "http://www.w3.org/2004/02/skos/core#inScheme"
     },
     "id": "@id",
+    "in": "http://www.w3.org/2006/time#inDateTime",
     "label": "http://www.w3.org/2004/02/skos/core#prefLabel",
     "localizedLabel": {
       "@container": "@language",
@@ -29,6 +30,10 @@
     "stop": "http://www.w3.org/2006/time#hasEnding",
     "title": "http://purl.org/dc/terms/title",
     "url": "http://xmlns.com/foaf/0.1/homepage",
+    "year": {
+      "@id": "http://www.w3.org/2006/time#year",
+      "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+    },
     "yearPublished": {
       "@id": "http://purl.org/dc/terms/date",
       "@type": "http://www.w3.org/2001/XMLSchema#gYear"
