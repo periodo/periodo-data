@@ -62,7 +62,7 @@ More examples of interval descriptions:
 
 * before 1000
 ```json
-{ "latestYear": 1000
+{ "latestYear": "1000"
 }
 ```
 
