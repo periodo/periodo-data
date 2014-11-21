@@ -75,13 +75,13 @@ More examples of interval descriptions:
 
 Proposed changes to JSON-LD context:
 
-1. `start` changes from `http://www.w3.org/2006/time#hasBeginning` to `http://www.w3.org/2006/time#intervalStartedBy`.
+* `start` changes from `http://www.w3.org/2006/time#hasBeginning` to `http://www.w3.org/2006/time#intervalStartedBy`.
 
-1. `stop` changes from `http://www.w3.org/2006/time#hasEnding` to `http://www.w3.org/2006/time#intervalFinishedBy`.
+* `stop` changes from `http://www.w3.org/2006/time#hasEnding` to `http://www.w3.org/2006/time#intervalFinishedBy`.
 
-1. `in` changes from `http://www.w3.org/2006/time#inDateTime` to `http://www.w3.org/2006/time#hasDateTimeDescription`.
+* `in` changes from `http://www.w3.org/2006/time#inDateTime` to `http://www.w3.org/2006/time#hasDateTimeDescription`.
 
-1. `earliestYear` is defined as follows:
+* `earliestYear` is defined as follows:
 ```
 :earliestYear
   a owl:DatatypeProperty ;
@@ -96,7 +96,7 @@ Proposed changes to JSON-LD context:
   ]
 ```
 
-1. `latestYear` is defined as follows:
+* `latestYear` is defined as follows:
 ```
 :latestYear
   a owl:DatatypeProperty ;
