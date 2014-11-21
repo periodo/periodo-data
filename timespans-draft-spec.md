@@ -1,18 +1,18 @@
 Example: "Early Dynastic period" defined as starting "3000 B.C. (+/- 150 years)" and ending "about 2330 B.C."
 
 ```json
-{ label: "Early Dynastic period"
-, start:
-  { in:
+{ "label": "Early Dynastic period"
+, "start":
+  { "in":
     { "earliestYear": "-3149"
     , "latestYear": "-2849"
     }
-  , label: "3000 B.C. (+/- 150 years)"
+  , "label": "3000 B.C. (+/- 150 years)"
   }
-  , stop:
-  { in:
+  , "stop":
+  { "in":
     { "year": "-2329" }
-  , label: "about 2330 B.C."
+  , "label": "about 2330 B.C."
   }
 }
 ```
