@@ -12,7 +12,7 @@ from rdflib.namespace import Namespace, RDFS, SKOS, FOAF, XSD
 from rdflib.term import bind
 from sys import stderr
 from time import sleep
-from urllib import urlopen
+from urllib import urlopen, quote_plus
 
 NSS = { 'atom':'http://www.w3.org/2005/Atom',
         'zapi':'http://zotero.org/ns/api',
@@ -30,7 +30,7 @@ def date2yearmonth(d):
 bind(XSD.gYearMonth, datetime.date, yearmonth2date, date2yearmonth)
 
 def allbut(unwanted, d):
-    return { k:v for k,v in d.iteritems() if not k == unwanted }
+    return { k:v for k,v in d.iteritems() if not k in unwanted }
 
 def entry2dict(entry):
     rows = entry.iterfind('.//x:tr', NSS) 
@@ -58,17 +58,30 @@ def label(g, s):
 def generic_metadata(e):
     o = entry2dict(e)
     metadata = { 'title': e.find('atom:title', NSS).text,
-                 'yearPublished': int(e.find('zapi:year', NSS).text),
                  'creators': [ { 'name': name } for name in o['creator'] ] }
-    if 'url' in o: metadata['url'] = o['url']
-    if 'abstractNote' in o: metadata['note'] = o['abstractNote']
+    year = e.find('zapi:year', NSS)
+    if year is not None:
+        metadata['yearPublished'] = int(year.text)
+    if 'url' in o:
+        assert len(o['url']) == 1
+        metadata['url'] = o['url'][0]
+    if 'abstractNote' in o:
+        assert len(o['abstractNote']) == 1
+        metadata['abstract'] = o['abstractNote'][0]
+    if 'accessDate' in o:
+        assert len(o['accessDate']) == 1
+        metadata['dateAccessed'] = o['accessDate'][0][0:10]
     return metadata
 
 def article_metadata(e):
     o = entry2dict(e)
     if not 'DOI' in o or len(o['DOI']) == 0:
         print >> stderr, 'no DOI for ' + e.find('atom:id', NSS).text
-        return generic_metadata(e)
+        try:
+            # weird Italian journals catalogued as books
+            return book_metadata(e)
+        except:
+            return generic_metadata(e)
     url = 'http://dx.doi.org/' + o['DOI'][0]
     g = load_graph(url)
     article = URIRef(url)
@@ -119,7 +132,7 @@ def book_metadata(e):
     return o
 
 def booksection_metadata(e):
-    o = allbut('yearPublished', allbut('url', generic_metadata(e)))
+    o = allbut('yearPublished', allbut(('url',), generic_metadata(e)))
     o['partOf'] = book_metadata(e)
     return o
 
@@ -139,34 +152,84 @@ def get_source_data(url):
                    handlers[e.find('zapi:itemType', NSS).text](e)) 
                   for e in root.iterfind('./atom:entry', NSS) ])
 
+def make_source_dict(sources, key, group):
+    d = { 'id': ('http://perio.do/temporary/' + hashlib.md5(key).hexdigest()),
+          'source': sources[key], 
+          'definitions': index([ allbut(('source','sourceId'), item)
+                                 for item in group ]) }
+
+    source_ids = set([ item['sourceId']
+                       for item in group if 'sourceId' in item ])
+    if len(source_ids) > 1:
+        raise Exception("too many source IDs for: " + key)
+    if len(source_ids) == 1:
+        d['sameAs'] = source_ids.pop()
+
+    locators = [ item['locationInSource']
+                 for item in group if 'locationInSource' in item ]
+    if len(locators) == len(group) and len(set(locators)) == 1:
+        d['source'] = { 'partOf': d['source'],
+                        'locator': locators[0] }
+        for v in d['definitions'].values():
+            if 'locationInSource' in v:
+                del v['locationInSource']
+    else:
+        for v in d['definitions'].values():
+            if 'locationInSource' in v:
+                if not '@id' in d['source']:
+                    print >> stderr, "Locators: {}".format(set(locators))
+                    raise Exception('no @id for: {}'.format(key))
+                v['source'] = {
+                    'partOf': d['source']['@id'],
+                    'locator': v.pop('locationInSource')
+                }
+
+    for v in d['definitions'].values():
+        if 'url' in v:
+            v['url'] = quote_plus(v['url'])
+                
+    return d
+
 def group_by_source(sources, items):
     kfun = itemgetter('source')
-    return index([ { 'id': ('http://perio.do/temporary/' 
-                            + hashlib.md5(key).hexdigest()),
-                     'source': sources[key], 
-                     'definitions':
-                     index([ allbut('source', item) for item in group ]) } 
+    return index([ make_source_dict(sources, key, list(group)) 
                    for key, group in groupby(sorted(items, key=kfun), kfun) ])
 
+def keys_of(d):
+    for k1,v in d.items():
+        yield k1
+        if isinstance(v, dict):
+            for k2 in keys_of(v):
+                yield k2
+
+def verify_context(d):
+    missing = ( set(keys_of(allbut(('@context',), d)))
+                - set(d['@context'].keys()) )
+    for m in sorted(missing):
+        if m.startswith('@'): continue
+        if m.startswith('http://'): continue
+        if m in ("als-latn",
+                 "eng-latn",
+                 "fra-latn",
+                 "ita-latn",
+                 "nld-latn",
+                 "spa-latn",
+                 "swe-latn",
+                 "ukr-cyrl"): continue
+        print >> stderr, 'Context is missing entry for "{}"'.format(m)
     
-o = json.load(open('in.json'))
-context = o['@context']
-context.update({ 
-    'periodizations': { '@container': '@index' },
-    'definitions': { '@reverse': SKOS.inScheme, '@container': '@index' },
-    'partOf': DC.isPartOf,
-    'title': DC.title,
-    'creators': DC.creator,
-    'contributors': DC.contributor,
-    'name': FOAF.name,
-    'yearPublished': { '@id': DC.date, '@type': XSD.gYear },
-    'url': FOAF.homepage,
-})
+data_in = json.load(open('in.json'))
+context = data_in['@context']
 sources = get_source_data(
     'https://api.zotero.org/groups/269098/items/top?start=0&limit=1000')
-print json.dumps({ '@context': context, 
-                   'periodizations': 
-                   group_by_source(sources, o['definitions'].values()) })
+data_out = { '@context': data_in['@context'], 
+             'periodCollections': 
+             group_by_source(sources, data_in['definitions'].values()) }
+
+verify_context(data_out)
+
+print json.dumps(data_out)
+
   
 
 
