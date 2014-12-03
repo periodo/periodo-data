@@ -14285,10 +14285,16 @@
             }
           ],
           "start": {
+            "in": {
+              "year": "-1000"
+            },
             "label": "-1000"
           },
           "stop": {
-            "label": "-5000"
+            "in": {
+              "year": "-0500"
+            },
+            "label": "-0500"
           },
           "url": "http%3A%2F%2Fopencontext.org%2Ftypes%2F747F7304-5026-4352-035C-899CCB5378CF"
         },
@@ -46307,9 +46313,15 @@
           ],
           "spatialCoverageDescription": "Galicia and neighbouring areas in NW Spain",
           "start": {
-            "label": "-50"
+            "in": {
+              "year": "-50000"
+            },
+            "label": "-50000"
           },
           "stop": {
+            "in": {
+              "year": "-7000"
+            },
             "label": "-7000"
           }
         },
