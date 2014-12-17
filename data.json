@@ -1,7 +1,7 @@
 {
   "@context": {
-    "@base": "http://n2t.net/ark:/28722/pd/",
-    "periodo": "http://n2t.net/ark:/28722/pd/vocab#",
+    "@base": "http://n2t.net/ark:/28722/p0/",
+    "periodo": "http://n2t.net/ark:/28722/p0/vocab#",
     "abstract": "http://purl.org/dc/terms/abstract",
     "alternateLabel": {
       "@id": "http://www.w3.org/2004/02/skos/core#altLabel",
