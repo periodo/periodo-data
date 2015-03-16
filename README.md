@@ -30,9 +30,8 @@ contributors, and publication years in the dump.
 Each [period definition](data.json#L30-49) has at least the folllowing properties:
 
 * [`label`](data.json#L31) The name given to the period in the original source.
-* [`localizedLabel`](data.json#L32-34) A
-  [language map](http://www.w3.org/TR/json-ld/#language-maps) of language-specific
-  names for the period.
+* [`originalLabel`](data.json#L32-34) A
+  [language map](http://www.w3.org/TR/json-ld/#language-maps) indicating the language and region of the name given to the period in the original source.
 * [`spatialCoverage`](data.json#L35-40) A set of modern-day places indicating the
   intended geographical scope of the period definition.
 * `start` and `stop` indicating the temporal extent of the period definition.
