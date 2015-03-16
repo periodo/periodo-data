@@ -5,7 +5,8 @@
     "PeriodDefinition": "http://www.w3.org/2004/02/skos/core#Concept",
     "abstract": "http://purl.org/dc/terms/abstract",
     "alternateLabel": {
-      "@id": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "@container": "@language",
+      "@id": "http://www.w3.org/2004/02/skos/core#altLabel"
     },
     "contributors": "http://purl.org/dc/terms/contributor",
     "creators": "http://purl.org/dc/terms/creator",
