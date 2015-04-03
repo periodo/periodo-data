@@ -1252,14 +1252,6 @@
               "label": "Egypt"
             },
             {
-              "id": "http://dbpedia.org/resource/Egypt",
-              "label": "Egypt"
-            },
-            {
-              "id": "http://dbpedia.org/resource/Afghanistan",
-              "label": "Afghanistan"
-            },
-            {
               "id": "http://dbpedia.org/resource/Albania",
               "label": "Albania"
             },
@@ -1326,10 +1318,6 @@
             {
               "id": "http://dbpedia.org/resource/Djibouti",
               "label": "Djibouti"
-            },
-            {
-              "id": "http://dbpedia.org/resource/Egypt",
-              "label": "Egypt"
             },
             {
               "id": "http://dbpedia.org/resource/Eritrea",
@@ -1534,10 +1522,6 @@
             {
               "id": "http://dbpedia.org/resource/Tunisia",
               "label": "Tunisia"
-            },
-            {
-              "id": "http://dbpedia.org/resource/Turkey",
-              "label": "Turkey"
             },
             {
               "id": "http://dbpedia.org/resource/Turkmenistan",
@@ -3899,54 +3883,6 @@
             {
               "id": "http://dbpedia.org/resource/Turkmenistan",
               "label": "Turkmenistan"
-            },
-            {
-              "id": "http://dbpedia.org/resource/Afghanistan",
-              "label": "Afghanistan"
-            },
-            {
-              "id": "http://dbpedia.org/resource/Egypt",
-              "label": "Egypt"
-            },
-            {
-              "id": "http://dbpedia.org/resource/Iran",
-              "label": "Iran"
-            },
-            {
-              "id": "http://dbpedia.org/resource/Iraq",
-              "label": "Iraq"
-            },
-            {
-              "id": "http://dbpedia.org/resource/Israel",
-              "label": "Israel"
-            },
-            {
-              "id": "http://dbpedia.org/resource/Jordan",
-              "label": "Jordan"
-            },
-            {
-              "id": "http://dbpedia.org/resource/Lebanon",
-              "label": "Lebanon"
-            },
-            {
-              "id": "http://dbpedia.org/resource/Palestine",
-              "label": "Palestine"
-            },
-            {
-              "id": "http://dbpedia.org/resource/Saudi_Arabia",
-              "label": "Saudi Arabia"
-            },
-            {
-              "id": "http://dbpedia.org/resource/Sudan",
-              "label": "Sudan"
-            },
-            {
-              "id": "http://dbpedia.org/resource/Syria",
-              "label": "Syria"
-            },
-            {
-              "id": "http://dbpedia.org/resource/Turkey",
-              "label": "Turkey"
             },
             {
               "id": "http://dbpedia.org/resource/Yemen",
@@ -6649,10 +6585,6 @@
             {
               "id": "http://dbpedia.org/resource/Syria",
               "label": "Syria"
-            },
-            {
-              "id": "http://dbpedia.org/resource/Italy",
-              "label": "Italy"
             }
           ],
           "start": {
