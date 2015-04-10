@@ -11,7 +11,7 @@
 @prefix periodo: <p0v#> .
 
 <http://dbpedia.org/resource/Afghanistan>
-    skos:prefLabel "Afghanistan", "southeastern Afghanistan" .
+    skos:prefLabel "Afghanistan" .
 
 <http://dbpedia.org/resource/Albania>
     skos:prefLabel "Albania" .
@@ -221,7 +221,7 @@
     skos:prefLabel "Nepal" .
 
 <http://dbpedia.org/resource/Netherlands>
-    skos:prefLabel "Holland", "Netherlands" .
+    skos:prefLabel "Netherlands" .
 
 <http://dbpedia.org/resource/Norway>
     skos:prefLabel "Norway" .
@@ -275,7 +275,7 @@
     skos:prefLabel "Serbia" .
 
 <http://dbpedia.org/resource/Sicily>
-    skos:prefLabel "Monte Casasia", "Sicily" .
+    skos:prefLabel "Sicily" .
 
 <http://dbpedia.org/resource/Slovakia>
     skos:prefLabel "Slovakia" .
@@ -335,7 +335,7 @@
     skos:prefLabel "United Arab Emirates" .
 
 <http://dbpedia.org/resource/United_Kingdom>
-    skos:prefLabel "Britain", "United Kingdom" .
+    skos:prefLabel "United Kingdom" .
 
 <http://dbpedia.org/resource/Uzbekistan>
     skos:prefLabel "Uzbekistan" .
