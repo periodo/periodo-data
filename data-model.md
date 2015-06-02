@@ -41,7 +41,7 @@ We use properties from the [Time Ontology](http://www.w3.org/TR/owl-time/) to de
 
 * [`time:intervalFinishedBy`](http://www.w3.org/TR/owl-time/#relations) links the period definition to an (anonymous) time interval that has the same (unknown) end point as the period, and an (unknown) beginning point that comes after the beginning point of the period. We call this the *stop* interval for the period.
 
-<img src="start-stop-intervals.svg" alt="Diagram showing the relation between a period and its start and stop intervals."/>
+![Diagram showing the relation between a period and its start and stop intervals](start-stop-intervals.png?raw=true)
 
 We describe the start and stop intervals in two ways. Both ways of describing the interval are required; these are complementary descriptions, not alternatives:
 
