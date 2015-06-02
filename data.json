@@ -18,7 +18,10 @@
       "@container": "@index",
       "@reverse": "http://www.w3.org/2004/02/skos/core#inScheme"
     },
-    "earliestYear": "periodo:earliestYear",
+    "earliestYear": {
+      "@id": "periodo:earliestYear",
+      "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+    },
     "editorialNote": "http://www.w3.org/2004/02/skos/core#editorialNote",
     "id": "@id",
     "in": "http://www.w3.org/2006/time#hasDateTimeDescription",
@@ -27,7 +30,10 @@
       "@type": "@id"
     },
     "label": "http://www.w3.org/2004/02/skos/core#prefLabel",
-    "latestYear": "periodo:latestYear",
+    "latestYear": {
+      "@id": "periodo:latestYear",
+      "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+    },
     "locator": "http://purl.org/ontology/bibo/locator",
     "name": "http://xmlns.com/foaf/0.1/name",
     "note": "http://www.w3.org/2004/02/skos/core#note",
