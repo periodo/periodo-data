@@ -73,11 +73,11 @@ We use the following properties to describe the spatial extent of period definit
 
 ## <a name="period-collections"></a>Period collections
 
-A period collection is simple a set of period definitions that share a source. We use [`dcterms:source`](http://dublincore.org/documents/dcmi-terms/#terms-source) to link period collections to bibliographic descriptions of their sources. Where possible we rely on external bibliographic databases such as WorldCat and CrossRef for bibliographic metadata.
+A period collection is simply a set of period definitions that share a source. We use [`dcterms:source`](http://dublincore.org/documents/dcmi-terms/#terms-source) to link period collections to bibliographic descriptions of their sources. Where possible we rely on external bibliographic databases such as WorldCat and CrossRef for bibliographic metadata.
 
 A period collection is a [`skos:ConceptScheme`](http://www.w3.org/TR/skos-reference/#schemes), “an aggregation of one or more SKOS concepts”. Belonging to the same period collection does not imply any semantic relationship between period definitions, other than sharing a source. In particular, the period definitions belonging to a period collection do not constitute a *periodization*, meaning a single coherent, continuous division of historical time. In the future we plan to add additional properties for indicating when a set of period definitions constitute a periodization.
 
-The [root resource](http://www.w3.org/TR/void/#root-resource) of the PeriodO dataset is an [rdf:Bag](http://www.w3.org/TR/rdf-schema/#ch_bag) (unordered collection) of period collections.
+The [root resource](http://www.w3.org/TR/void/#root-resource) of the PeriodO dataset is an [`rdf:Bag`](http://www.w3.org/TR/rdf-schema/#ch_bag) (unordered collection) of period collections.
 
 
 
