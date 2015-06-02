@@ -4513,15 +4513,15 @@
     time:intervalFinishedBy [
         skos:prefLabel "fifteenth century B.C." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-1499" ;
-            periodo:latestYear "-1400"
+            periodo:earliestYear "-1499"^^xsd:gYear ;
+            periodo:latestYear "-1400"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "seventeenth century B.C." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-1699" ;
-            periodo:latestYear "-1600"
+            periodo:earliestYear "-1699"^^xsd:gYear ;
+            periodo:latestYear "-1600"^^xsd:gYear
         ]
     ] .
 
@@ -24122,8 +24122,8 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "mid seventh century B.C." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0666" ;
-            periodo:latestYear "-0633"
+            periodo:earliestYear "-0666"^^xsd:gYear ;
+            periodo:latestYear "-0633"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
@@ -24269,8 +24269,8 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "mid seventh century B.C." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0666" ;
-            periodo:latestYear "-0633"
+            periodo:earliestYear "-0666"^^xsd:gYear ;
+            periodo:latestYear "-0633"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
@@ -25294,15 +25294,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "beginning of the 5th century B.C." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0499" ;
-            periodo:latestYear "-0466"
+            periodo:earliestYear "-0499"^^xsd:gYear ;
+            periodo:latestYear "-0466"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "beginning of the 6th century B.C." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0599" ;
-            periodo:latestYear "-0566"
+            periodo:earliestYear "-0599"^^xsd:gYear ;
+            periodo:latestYear "-0566"^^xsd:gYear
         ]
     ] .
 
@@ -25320,15 +25320,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "beginning of the 6th century B.C." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0599" ;
-            periodo:latestYear "-0566"
+            periodo:earliestYear "-0599"^^xsd:gYear ;
+            periodo:latestYear "-0566"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "mid 7th century B.C." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0666" ;
-            periodo:latestYear "-0633"
+            periodo:earliestYear "-0666"^^xsd:gYear ;
+            periodo:latestYear "-0633"^^xsd:gYear
         ]
     ] .
 
@@ -27042,8 +27042,8 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalStartedBy [
         skos:prefLabel "c. 2600/2500 BCE" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-2599" ;
-            periodo:latestYear "-2499"
+            periodo:earliestYear "-2599"^^xsd:gYear ;
+            periodo:latestYear "-2499"^^xsd:gYear
         ]
     ] .
 
@@ -27189,8 +27189,8 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "7000/6500 BCE" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-6999" ;
-            periodo:latestYear "-6499"
+            periodo:earliestYear "-6999"^^xsd:gYear ;
+            periodo:latestYear "-6499"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
@@ -27215,8 +27215,8 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalStartedBy [
         skos:prefLabel "c. 4000/3900 BCE" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-3999" ;
-            periodo:latestYear "-3899"
+            periodo:earliestYear "-3999"^^xsd:gYear ;
+            periodo:latestYear "-3899"^^xsd:gYear
         ]
     ] .
 
@@ -27343,15 +27343,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "5700/5500 BCE" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-5699" ;
-            periodo:latestYear "-5499"
+            periodo:earliestYear "-5699"^^xsd:gYear ;
+            periodo:latestYear "-5499"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "c. 7000/6500 BCE" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-6999" ;
-            periodo:latestYear "-6499"
+            periodo:earliestYear "-6999"^^xsd:gYear ;
+            periodo:latestYear "-6499"^^xsd:gYear
         ]
     ] .
 
@@ -27644,8 +27644,8 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalStartedBy [
         skos:prefLabel "beginning of the second millennium B.C.E." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-1999" ;
-            periodo:latestYear "-1666"
+            periodo:earliestYear "-1999"^^xsd:gYear ;
+            periodo:latestYear "-1666"^^xsd:gYear
         ]
     ] .
 
@@ -34784,15 +34784,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "550/525" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0549" ;
-            periodo:latestYear "-0524"
+            periodo:earliestYear "-0549"^^xsd:gYear ;
+            periodo:latestYear "-0524"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "675/650" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0674" ;
-            periodo:latestYear "-0649"
+            periodo:earliestYear "-0674"^^xsd:gYear ;
+            periodo:latestYear "-0649"^^xsd:gYear
         ]
     ] .
 
@@ -34807,8 +34807,8 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "675/650" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0674" ;
-            periodo:latestYear "-0649"
+            periodo:earliestYear "-0674"^^xsd:gYear ;
+            periodo:latestYear "-0649"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
@@ -34829,15 +34829,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "146/125" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0145" ;
-            periodo:latestYear "-0124"
+            periodo:earliestYear "-0145"^^xsd:gYear ;
+            periodo:latestYear "-0124"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "300/275" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0299" ;
-            periodo:latestYear "-0274"
+            periodo:earliestYear "-0299"^^xsd:gYear ;
+            periodo:latestYear "-0274"^^xsd:gYear
         ]
     ] .
 
@@ -34852,15 +34852,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "300/275" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0299" ;
-            periodo:latestYear "-0274"
+            periodo:earliestYear "-0299"^^xsd:gYear ;
+            periodo:latestYear "-0274"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "550/525" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0549" ;
-            periodo:latestYear "-0524"
+            periodo:earliestYear "-0549"^^xsd:gYear ;
+            periodo:latestYear "-0524"^^xsd:gYear
         ]
     ] .
 
@@ -34980,15 +34980,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "end of the first century BC" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0033" ;
-            periodo:latestYear "0000"
+            periodo:earliestYear "-0033"^^xsd:gYear ;
+            periodo:latestYear "0000"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "eighth century BC" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0799" ;
-            periodo:latestYear "-0700"
+            periodo:earliestYear "-0799"^^xsd:gYear ;
+            periodo:latestYear "-0700"^^xsd:gYear
         ]
     ] .
 
@@ -35032,15 +35032,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "sixth century BC" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0599" ;
-            periodo:latestYear "-0500"
+            periodo:earliestYear "-0599"^^xsd:gYear ;
+            periodo:latestYear "-0500"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "twelfth century BC" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-1199" ;
-            periodo:latestYear "-1100"
+            periodo:earliestYear "-1199"^^xsd:gYear ;
+            periodo:latestYear "-1100"^^xsd:gYear
         ]
     ] .
 
@@ -35081,15 +35081,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "fifth century BC" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0499" ;
-            periodo:latestYear "-0400"
+            periodo:earliestYear "-0499"^^xsd:gYear ;
+            periodo:latestYear "-0400"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "ninth century BC" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0899" ;
-            periodo:latestYear "-0800"
+            periodo:earliestYear "-0899"^^xsd:gYear ;
+            periodo:latestYear "-0800"^^xsd:gYear
         ]
     ] .
 
@@ -35131,15 +35131,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "end of the first century BC" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0033" ;
-            periodo:latestYear "0000"
+            periodo:earliestYear "-0033"^^xsd:gYear ;
+            periodo:latestYear "0000"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "fourth century BC" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0399" ;
-            periodo:latestYear "-0300"
+            periodo:earliestYear "-0399"^^xsd:gYear ;
+            periodo:latestYear "-0300"^^xsd:gYear
         ]
     ] .
 
@@ -35183,15 +35183,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "14th century AD" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "1301" ;
-            periodo:latestYear "1400"
+            periodo:earliestYear "1301"^^xsd:gYear ;
+            periodo:latestYear "1400"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "13th century AD" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "1201" ;
-            periodo:latestYear "1300"
+            periodo:earliestYear "1201"^^xsd:gYear ;
+            periodo:latestYear "1300"^^xsd:gYear
         ]
     ] .
 
@@ -35302,15 +35302,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "mid 2nd century BC" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0166" ;
-            periodo:latestYear "-0133"
+            periodo:earliestYear "-0166"^^xsd:gYear ;
+            periodo:latestYear "-0133"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "mid 3rd century BC" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0266" ;
-            periodo:latestYear "-0233"
+            periodo:earliestYear "-0266"^^xsd:gYear ;
+            periodo:latestYear "-0233"^^xsd:gYear
         ]
     ] .
 
@@ -35324,15 +35324,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "5th century AD" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "0401" ;
-            periodo:latestYear "0500"
+            periodo:earliestYear "0401"^^xsd:gYear ;
+            periodo:latestYear "0500"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "Early 1st century AD" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "0001" ;
-            periodo:latestYear "0034"
+            periodo:earliestYear "0001"^^xsd:gYear ;
+            periodo:latestYear "0034"^^xsd:gYear
         ]
     ] .
 
@@ -35385,8 +35385,8 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "12th century BC" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-1199" ;
-            periodo:latestYear "-1100"
+            periodo:earliestYear "-1199"^^xsd:gYear ;
+            periodo:latestYear "-1100"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
@@ -35406,8 +35406,8 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "mid 3rd century BC" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0266" ;
-            periodo:latestYear "-0233"
+            periodo:earliestYear "-0266"^^xsd:gYear ;
+            periodo:latestYear "-0233"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
@@ -35456,15 +35456,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "7th cent." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "0601" ;
-            periodo:latestYear "0700"
+            periodo:earliestYear "0601"^^xsd:gYear ;
+            periodo:latestYear "0700"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "4th cent." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "0301" ;
-            periodo:latestYear "0400"
+            periodo:earliestYear "0301"^^xsd:gYear ;
+            periodo:latestYear "0400"^^xsd:gYear
         ]
     ] .
 
@@ -35477,15 +35477,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "3rd cent." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "0201" ;
-            periodo:latestYear "0300"
+            periodo:earliestYear "0201"^^xsd:gYear ;
+            periodo:latestYear "0300"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "1st cent." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "0001" ;
-            periodo:latestYear "0100"
+            periodo:earliestYear "0001"^^xsd:gYear ;
+            periodo:latestYear "0100"^^xsd:gYear
         ]
     ] .
 
@@ -35498,15 +35498,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "11th cent." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "1001" ;
-            periodo:latestYear "1100"
+            periodo:earliestYear "1001"^^xsd:gYear ;
+            periodo:latestYear "1100"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "7th cent." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "0601" ;
-            periodo:latestYear "0700"
+            periodo:earliestYear "0601"^^xsd:gYear ;
+            periodo:latestYear "0700"^^xsd:gYear
         ]
     ] .
 
@@ -35519,15 +35519,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "6th cent." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "0501" ;
-            periodo:latestYear "0600"
+            periodo:earliestYear "0501"^^xsd:gYear ;
+            periodo:latestYear "0600"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "3rd cent." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "0201" ;
-            periodo:latestYear "0300"
+            periodo:earliestYear "0201"^^xsd:gYear ;
+            periodo:latestYear "0300"^^xsd:gYear
         ]
     ] .
 
@@ -37013,8 +37013,8 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalStartedBy [
         skos:prefLabel "1800/1750 B.C.E." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-1799" ;
-            periodo:latestYear "-1749"
+            periodo:earliestYear "-1799"^^xsd:gYear ;
+            periodo:latestYear "-1749"^^xsd:gYear
         ]
     ] .
 
@@ -37383,8 +37383,8 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "1800/1750 B.C.E." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-1799" ;
-            periodo:latestYear "-1749"
+            periodo:earliestYear "-1799"^^xsd:gYear ;
+            periodo:latestYear "-1749"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
@@ -37612,8 +37612,8 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "6th century CE" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "0501" ;
-            periodo:latestYear "0600"
+            periodo:earliestYear "0501"^^xsd:gYear ;
+            periodo:latestYear "0600"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
@@ -37879,8 +37879,8 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "31/30 BCE" ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0030" ;
-            periodo:latestYear "-0029"
+            periodo:earliestYear "-0030"^^xsd:gYear ;
+            periodo:latestYear "-0029"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
@@ -39415,8 +39415,8 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalStartedBy [
         skos:prefLabel "Beginning of 2nd millennium B.C.E." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-1999" ;
-            periodo:latestYear "-1666"
+            periodo:earliestYear "-1999"^^xsd:gYear ;
+            periodo:latestYear "-1666"^^xsd:gYear
         ]
     ] .
 
@@ -39430,15 +39430,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "4th millennium B.C.E." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-3999" ;
-            periodo:latestYear "-3000"
+            periodo:earliestYear "-3999"^^xsd:gYear ;
+            periodo:latestYear "-3000"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "4th millennium B.C.E." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-3999" ;
-            periodo:latestYear "-3000"
+            periodo:earliestYear "-3999"^^xsd:gYear ;
+            periodo:latestYear "-3000"^^xsd:gYear
         ]
     ] .
 
@@ -39452,8 +39452,8 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "4th millennium B.C.E." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-3999" ;
-            periodo:latestYear "-3000"
+            periodo:earliestYear "-3999"^^xsd:gYear ;
+            periodo:latestYear "-3000"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
@@ -39493,15 +39493,15 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "4th century B.C.E." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0399" ;
-            periodo:latestYear "-0300"
+            periodo:earliestYear "-0399"^^xsd:gYear ;
+            periodo:latestYear "-0300"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
         skos:prefLabel "5th century B.C.E." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-0499" ;
-            periodo:latestYear "-0400"
+            periodo:earliestYear "-0499"^^xsd:gYear ;
+            periodo:latestYear "-0400"^^xsd:gYear
         ]
     ] .
 
@@ -39515,8 +39515,8 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
     time:intervalFinishedBy [
         skos:prefLabel "Ca. 1190/85 B.C.E." ;
         time:hasDateTimeDescription [
-            periodo:earliestYear "-1189" ;
-            periodo:latestYear "-0084"
+            periodo:earliestYear "-1189"^^xsd:gYear ;
+            periodo:latestYear "-0084"^^xsd:gYear
         ]
     ] ;
     time:intervalStartedBy [
