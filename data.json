@@ -22,7 +22,7 @@
       "@id": "periodo:earliestYear",
       "@type": "http://www.w3.org/2001/XMLSchema#gYear"
     },
-    "editorialNote": "http://www.w3.org/2004/02/skos/core#note",
+    "editorialNote": "http://www.w3.org/2004/02/skos/core#editorialNote",
     "id": "@id",
     "in": "http://www.w3.org/2006/time#hasDateTimeDescription",
     "inDataset": {
