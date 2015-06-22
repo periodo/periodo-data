@@ -1,0 +1,67 @@
+{ "@context": {
+    "@base": "http://n2t.net/ark:/99152/",
+    "Activity": "prov:Activity",
+    "Entity": "prov:Entity",
+    "Person": "prov:Agent",
+    "by": "prov:wasAssociatedWith",
+    "generated": "prov:generated",
+    "history": "@graph",
+    "id": "@id",
+    "name": "http://xmlns.com/foaf/0.1/name",
+    "prov": "http://www.w3.org/ns/prov#",
+    "specializationOf": {
+      "@id": "prov:specializationOf",
+      "@type": "@id"
+    },
+    "time": {
+      "@id": "prov:atTime",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+    "type": "@type",
+    "url": {
+      "@id": "http://xmlns.com/foaf/0.1/page",
+      "@type": "@id"
+    },
+    "used": prov:used",
+    "wasRevisionOf": "prov:wasRevisionOf"
+  },
+  "history": [
+    {
+      "id": "#change1",
+      "type": "Activity",
+      "time": "2015-05-22T22:34:50",
+      "by": [
+        {
+          "id": "http://orcid.org/0000-0002-3617-9378",
+          "type": "Person",
+          "name": "Patrick Golden"
+        }
+      ]
+      "used": [
+        {
+          "id": "p0d?version=1",
+          "type": "Entity",
+          "specializationOf": "p0d"
+        },
+        {
+          "id": "#patch1",
+          "type": "Entity",
+          "url": "patches/1.jsonpatch"
+        }
+      ]
+      "generated": [
+        {
+          "id": "p0244q7?version=2",
+          "type": "Entity",
+          "specializationOf": "p0244q7",
+          "wasRevisionOf": {
+            "id": "p0244q7?version=1",
+            "specializationOf": "p0244q7",
+            "type": "Entity"
+          }
+        },
+        { ...all the other period collections affected by this patch... }
+      ]
+    }
+  ]
+}
