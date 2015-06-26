@@ -9,58 +9,119 @@
     "id": "@id",
     "name": "http://xmlns.com/foaf/0.1/name",
     "prov": "http://www.w3.org/ns/prov#",
+    "role": "prov:hadRole",
+    "roles": "prov:qualifiedAssociation",
     "specializationOf": {
       "@id": "prov:specializationOf",
       "@type": "@id"
     },
-    "time": {
-      "@id": "prov:atTime",
+    "submittedAt": {
+      "@id": "prov:startedAtTime",
       "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
-    }
+    },
+    "mergedAt": {
+      "@id": "prov:endedAtTime",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
     "type": "@type",
     "url": {
       "@id": "http://xmlns.com/foaf/0.1/page",
       "@type": "@id"
     },
-    "used": prov:used",
+    "used": "prov:used",
     "wasRevisionOf": "prov:wasRevisionOf"
   },
   "history": [
     {
-      "id": "#change1",
-      "type": "Activity",
-      "time": "2015-05-22T22:34:50",
-      "by": [
-        {
-          "id": "http://orcid.org/0000-0002-3617-9378",
-          "type": "Person",
-          "name": "Patrick Golden"
-        }
-      ]
+      "id": "#change0",
+      "mergedAt": "TIME",
       "used": [
         {
-          "id": "p0d?version=1",
-          "type": "Entity",
+          "id": "p0d?version=0",
           "specializationOf": "p0d"
         },
         {
           "id": "#patch1",
-          "type": "Entity",
-          "url": "patches/1.jsonpatch"
+          "url": "patches/1/patch.jsonpatch"
         }
-      ]
+      ],
       "generated": [
         {
-          "id": "p0244q7?version=2",
-          "type": "Entity",
-          "specializationOf": "p0244q7",
+          "id": "p0d?version=1",
+          "specializationOf": "p0d"
+        },
+        {
+          "id": "p0trgkv?version=1",
+          "specializationOf": "p0trgkv"
+        },
+        {
+          "id": "p0trgkvwbjd?version=1",
+          "specializationOf": "p0trgkvwbjd"
+        }
+      ]
+    },
+    {
+      "id": "#change1",
+      "submittedAt": "TIME",
+      "mergedAt": "TIME",
+      "by": [
+        {
+          "id": "http://orcid.org/1234-5678-9101-112X",
+          "name": "Regular Gal"
+        },
+        {
+          "id": "http://orcid.org/1211-1098-7654-321X",
+          "name": "Super Admin"
+        }
+      ],
+      "roles": [
+        {
+          "agent":  "http://orcid.org/1234-5678-9101-112X",
+          "role": "http://n2t ... roles/created"
+        },
+        {
+          "agent":  "http://orcid.org/1234-5678-9101-112X",
+          "role": "http://n2t ... roles/updated"
+        },
+        {
+          "agent":  "http://orcid.org/1234-5678-9101-112X",
+          "role": "http://n2t ... roles/merged"
+        }
+      ],
+      "used": [
+        {
+          "id": "p0d?version=1",
+          "specializationOf": "p0d"
+        },
+        {
+          "id": "#patch1",
+          "url": "patches/1.jsonpatch"
+        }
+      ],
+      "generated": [
+        {
+          "id": "p0d?version=2",
+          "specializationOf": "p0d"
+        },
+        {
+          "id": "p0trgkv?version=2",
+          "specializationOf": "p0trgkv",
           "wasRevisionOf": {
-            "id": "p0244q7?version=1",
-            "specializationOf": "p0244q7",
-            "type": "Entity"
+            "id": "p0trgkv?version=1"
           }
         },
-        { ...all the other period collections affected by this patch... }
+        {
+          "id": "{new_collection_ids[0]}?version=2",
+          "specializationOf": "{new_collection_ids[0]}"
+        },
+        {
+          "id": "{new_collection_ids[1]}?version=2",
+          "specializationOf": "{new_collection_ids[1]}"
+        },
+        {
+          "id": "{new_definition_id}?version=2",
+          "specializationOf": "{new_definition_id}"
+        }
       ]
     }
   ]
