@@ -8,8 +8,14 @@
       "@container": "@language",
       "@id": "http://www.w3.org/2004/02/skos/core#altLabel"
     },
-    "contributors": "http://purl.org/dc/terms/contributor",
-    "creators": "http://purl.org/dc/terms/creator",
+    "contributors": {
+      "@id": "http://purl.org/dc/terms/contributor",
+      "@container": "@set"
+    },
+    "creators": {
+      "@id": "http://purl.org/dc/terms/creator",
+      "@container": "@set"
+    },
     "dateAccessed": {
       "@id": "http://purl.org/dc/terms/date",
       "@type": "http://www.w3.org/2001/XMLSchema#date"
@@ -59,7 +65,10 @@
       "@type": "@id"
     },
     "source": "http://purl.org/dc/terms/source",
-    "spatialCoverage": "http://purl.org/dc/terms/spatial",
+    "spatialCoverage": {
+      "@id": "http://purl.org/dc/terms/spatial",
+      "@container": "@set"
+    },
     "spatialCoverageDescription": "periodo:spatialCoverageDescription",
     "start": "http://www.w3.org/2006/time#intervalStartedBy",
     "stop": "http://www.w3.org/2006/time#intervalFinishedBy",
