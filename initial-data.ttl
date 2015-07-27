@@ -27736,7 +27736,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
         dcterms:date "2014-07-28"^^xsd:date ;
         dcterms:issued "2003"^^xsd:gYear ;
         dcterms:title "Periods used on the database" ;
-        foaf:page <http://finds.org.uk/database/terminology/periods>
+        foaf:page <http://finds.org.uk/datalabs/terminology/periods>
     ] ;
     a skos:ConceptScheme .
 
@@ -27759,7 +27759,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-1599"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/13> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/13> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrs3d38>
     dcterms:language "eng-latn" ;
@@ -27780,7 +27780,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-3999"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/9> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/9> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrs45g4>
     dcterms:language "eng-latn" ;
@@ -27802,7 +27802,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-9999"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/6> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/6> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrs4xgm>
     dcterms:language "eng-latn" ;
@@ -27823,7 +27823,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-6999"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/6> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/6> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrs52f5>
     dcterms:language "eng-latn" ;
@@ -27844,7 +27844,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-0999"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/13> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/13> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrs69ws>
     dcterms:language "eng-latn" ;
@@ -27866,7 +27866,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "0043"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/21> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/21> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrs6qb2>
     dcterms:language "eng-latn" ;
@@ -27887,7 +27887,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-2349"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/13> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/13> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrs6sgx>
     dcterms:language "eng-latn" ;
@@ -27909,7 +27909,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "1500"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/36> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/36> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrs6zcf>
     dcterms:language "eng-latn" ;
@@ -27931,7 +27931,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-499999"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/2> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/2> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrs72vn>
     dcterms:language "eng-latn" ;
@@ -27952,7 +27952,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "0410"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/47> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/47> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrs9f7f>
     dcterms:language "eng-latn" ;
@@ -27973,7 +27973,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-2699"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/9> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/9> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrs9v5b>
     dcterms:language "eng-latn" ;
@@ -27994,7 +27994,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-0799"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/16> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/16> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrsbb25>
     dcterms:language "eng-latn" ;
@@ -28015,7 +28015,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "0851"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/47> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/47> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrsc7mt>
     dcterms:language "eng-latn" ;
@@ -28036,7 +28036,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-149999"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/2> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/2> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrscrzm>
     dcterms:language "eng-latn" ;
@@ -28057,7 +28057,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-2349"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/13> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/13> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrsdb9z>
     dcterms:language "eng-latn" ;
@@ -28078,7 +28078,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-0099"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/16> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/16> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrsfprj>
     dcterms:language "eng-latn" ;
@@ -28099,7 +28099,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "0043"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/21> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/21> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrsg24g>
     dcterms:language "eng-latn" ;
@@ -28121,7 +28121,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "0491"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/67> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/67> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrsgn96>
     dcterms:language "eng-latn" ;
@@ -28142,7 +28142,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "1901"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/41> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/41> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrshhcw>
     dcterms:language "eng-latn" ;
@@ -28164,7 +28164,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "0410"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/47> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/47> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrsmhnc>
     dcterms:language "eng-latn" ;
@@ -28186,7 +28186,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-0699"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/66> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/66> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrsn5zn>
     dcterms:language "eng-latn" ;
@@ -28207,7 +28207,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-499999"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/2> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/2> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrsnfdp>
     dcterms:language "eng-latn" ;
@@ -28228,7 +28228,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-0399"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/16> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/16> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrsp9j4>
     dcterms:language "eng-latn" ;
@@ -28249,7 +28249,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-3499"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/9> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/9> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrsr3qh>
     dcterms:language "eng-latn" ;
@@ -28270,7 +28270,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "0201"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/21> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/21> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrsrj82>
     dcterms:language "eng-latn" ;
@@ -28291,7 +28291,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "0701"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/47> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/47> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrst8ft>
     dcterms:language "eng-latn" ;
@@ -28312,7 +28312,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-0799"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/16> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/16> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrsvxp3>
     dcterms:language "eng-latn" ;
@@ -28333,7 +28333,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-9999"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/6> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/6> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrswcr8>
     dcterms:language "eng-latn" ;
@@ -28354,7 +28354,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-39999"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/2> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/2> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrsws3g>
     dcterms:language "eng-latn" ;
@@ -28375,7 +28375,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "-3999"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/9> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/9> .
 
 <https://perio.do/.well-known/genid/assigned/p0gjgrsxwzx>
     dcterms:language "eng-latn" ;
@@ -28397,7 +28397,7 @@ Chrono-cultural categories are not exactly periods. They have strong chronologic
             time:year "1066"^^xsd:gYear
         ]
     ] ;
-    foaf:page <http://finds.org.uk/database/terminology/period/id/29> .
+    foaf:page <http://finds.org.uk/datalabs/terminology/period/id/29> .
 
 <https://perio.do/.well-known/genid/assigned/p0hrtx5>
     dcterms:source [
